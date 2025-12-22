@@ -1,132 +1,73 @@
+---
+
 ```markdown
 # Plagiarism Checker Python
 
-Proyek ini merupakan **tugas praktikum/penugasan individu** untuk membangun aplikasi pendeteksi plagiarisme dokumen akademik berbahasa Indonesia menggunakan metode **TF-IDF** dan **Cosine Similarity**.  
-Aplikasi dibuat menggunakan bahasa pemrograman **Python** dan antarmuka berbasis web dengan **Streamlit**.
+Proyek ini adalah **tugas praktikum** yang bertujuan untuk membuat aplikasi sederhana pendeteksi plagiarisme menggunakan bahasa pemrograman Python.  
+Aplikasi dapat membaca dokumen (PDF maupun teks), mengekstrak konten, lalu membandingkan kesamaan antar dokumen.
 
 ---
 
 ## 📂 Struktur Folder
-
-```
-
-plagiarism-checker-python/
-├── app.py
-├── plagiarism_detector.py
-├── pdf_extractor.py
-├── sample_documents.py
-├── generate_academic_docs.py
-├── requirements.txt
-├── README.md
-└── documents/
-├── sample/
-│   └── doc1.txt ... doc50.txt
-└── uploads/
-
-```
+- `app.py` → File utama untuk menjalankan aplikasi.
+- `plagiarism_detector.py` → Modul inti untuk mendeteksi plagiarisme.
+- `pdf_extractor.py` → Ekstraksi teks dari file PDF.
+- `generate_docs.py` → Membuat dokumen contoh untuk pengujian.
+- `sample_documents.py` → Contoh dokumen teks untuk uji coba.
+- `documents/sample/` → Folder berisi dokumen sampel.
+- `requirements.txt` → Daftar dependensi Python yang dibutuhkan.
 
 ---
 
 ## ⚙️ Instalasi
+1. Clone repository:
+   ```bash
+   git clone https://github.com/wahyualvyy/plagiarism-checker-python.git
+   cd plagiarism-checker-python
+   ```
 
-1. Pastikan Python versi 3.8 atau lebih baru sudah terpasang:
-```
+2. Buat virtual environment (opsional tapi disarankan):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate      # Windows
+   ```
 
-python --version
-
-```
-
-2. (Opsional) Buat virtual environment:
-```
-
-python -m venv venv
-venv\Scripts\activate
-
-```
-
-3. Install seluruh dependensi:
-```
-
-pip install -r requirements.txt
-
-```
+3. Install dependensi:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ---
 
-## 📄 Menyiapkan Dokumen Referensi
-
-Untuk membuat minimal 50 dokumen referensi secara otomatis, jalankan:
-```
-
-python generate_academic_docs.py
-
-```
-
-Dokumen referensi akan tersimpan di folder:
-```
-
-documents/sample/
-
-```
-
----
-
-## ▶️ Cara Menjalankan Aplikasi
-
-Jalankan aplikasi dengan perintah:
-```
-
-python -m streamlit run app.py
-
-```
-
-Aplikasi akan terbuka di browser melalui alamat:
-```
-
-[http://localhost:8501](http://localhost:8501)
-
-```
-
----
-
-## 🧪 Cara Menggunakan Aplikasi
-
-1. Buka aplikasi di browser.
-2. Upload satu dokumen berformat `.txt` atau `.pdf`.
-3. Atur nilai threshold similarity (default 0.7).
-4. Tunggu proses deteksi selesai.
-5. Hasil yang ditampilkan:
-   - Daftar dokumen dengan similarity di atas threshold
-   - Highlight bagian teks yang mirip
-   - Similarity matrix (heatmap)
-   - Statistik hasil deteksi
-
-Dokumen yang diunggah akan otomatis disimpan di:
-```
-
-documents/uploads/
-
-```
+## ▶️ Cara Menjalankan
+1. Pastikan dokumen yang ingin diperiksa ada di folder `documents/sample/`.
+2. Jalankan aplikasi:
+   ```bash
+   python app.py
+   ```
+3. Program akan menampilkan hasil persentase kesamaan antar dokumen.
 
 ---
 
 ## 🧩 Fitur Utama
-- Ekstraksi teks dari file PDF dan TXT
-- Deteksi plagiarisme menggunakan TF-IDF dan cosine similarity
-- Filtering dokumen berdasarkan threshold
-- Highlight bagian teks yang mirip
-- Visualisasi similarity matrix
-- Statistik hasil deteksi
+- Ekstraksi teks dari file PDF.
+- Membandingkan isi antar dokumen teks.
+- Menampilkan persentase kesamaan (indikasi plagiarisme).
+- Mudah diperluas untuk format dokumen lain.
 
 ---
 
 ## 📌 Catatan
-- File PDF harus berupa **PDF berbasis teks**, bukan hasil scan gambar.
-- Sistem ini dibuat untuk **keperluan akademik dan pembelajaran**.
-- Hasil deteksi bersifat indikatif dan bukan pengganti sistem profesional.
+- Proyek ini dibuat untuk **keperluan praktikum** dan pembelajaran.
+- Algoritma yang digunakan sederhana, sehingga hasil deteksi mungkin belum seakurat sistem profesional.
+- Bisa dikembangkan lebih lanjut dengan algoritma NLP atau library seperti `scikit-learn`.
 
 ---
 
 ## 👨‍💻 Kontributor
-- wahyualvyy
+- [wahyualvyy](https://github.com/wahyualvyy)
+
 ```
+
+---
