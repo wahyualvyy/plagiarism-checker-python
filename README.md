@@ -62,10 +62,3 @@ Aplikasi dapat membaca dokumen (PDF maupun teks), mengekstrak konten, lalu memba
 - Bisa dikembangkan lebih lanjut dengan algoritma NLP atau library seperti `scikit-learn`.
 
 ---
-
-## 👨‍💻 Kontributor
-- [wahyualvyy](https://github.com/wahyualvyy)
-
-```
-
----
