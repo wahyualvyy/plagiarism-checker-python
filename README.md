@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Plagiarism Checker Python
 
