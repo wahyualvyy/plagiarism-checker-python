@@ -1,0 +1,30 @@
+Judul: Visi komputer
+Sumber: Wikipedia Indonesia
+
+Visi komputer atau penglihatan komputer adalah bidang ilmiah antardisiplin yang membahas bagaimana komputer dapat memperoleh pemahaman tingkat tinggi dari gambar atau video digital. Dari perspektif teknik, bidang ini berupaya mengotomatiskan tugas-tugas yang dapat dilakukan oleh sistem penglihatan manusia.
+Tugas visi komputer meliputi metode untuk memperoleh, memproses, menganalisis dan memahami gambar digital, dan ekstraksi data dimensi tinggi dari dunia nyata untuk menghasilkan informasi numerik atau simbolis, misalnya, dalam bentuk keputusan. Pengertian dalam konteks ini berarti transformasi gambar visual (input retina) menjadi deskripsi mengenai dunia sekitar yang dapat berinteraksi dengan proses pemikiran lain dan memperoleh tindakan yang sesuai. Pemahaman gambar ini dapat dilihat sebagai penguraian informasi simbolik dari data gambar menggunakan model yang dibangun dengan bantuan geometri, fisika, statistik, dan teori pembelajaran.
+Sub-domain dari visi komputer meliputi rekonstruksi adegan, deteksi peristiwa, pelacakan video,  pengenalan objek, estimasi pose 3D, pembelajaran, pengindeksan, estimasi gerakan, dan pemulihan gambar.
+
+
+== Definisi ==
+Visi komputer adalah bidang antardisiplin yang membahas bagaimana komputer dapat direkayasa untuk mendapatkan pemahaman tingkat tinggi dari masukan data berupa gambar atau video digital. Dari perspektif teknik, bidang ini berupaya mengotomasikan tugas-tugas yang dapat dilakukan oleh sistem penglihatan manusia. "Visi komputer berkaitan dengan ekstraksi otomatis, analisis, dan pemahaman informasi yang berguna dari satu gambar atau urutan gambar. Ini melibatkan pengembangan dasar teoretis dan algoritmik untuk mencapai pemahaman visual otomatis". Sebagai disiplin ilmu, visi komputer berkaitan dengan teori di balik sistem buatan yang mengekstraksi informasi dari gambar. Data gambar dapat mengambil banyak bentuk, seperti urutan video, pandangan dari beberapa kamera, atau data multidimensi dari pemindai medis.
+
+
+== Sejarah ==
+Pada akhir 1960-an, visi komputer dimulai di universitas yang merintis kecerdasan buatan. Teknologi ini dimaksudkan untuk meniru sistem penglihatan manusia, sebagai batu loncatan untuk memberkahi robot dengan perilaku cerdas. Pada tahun 1966, diyakini bahwa ini dapat dicapai melalui proyek musim panas, dengan menempelkan kamera ke komputer dan membuatnya "menggambarkan apa yang dilihatnya".
+Apa yang membedakan visi komputer dari bidang pengolahan gambar digital yang lazim pada waktu itu adalah keinginan untuk mengekstraksi struktur tiga dimensi dari gambar dengan tujuan mencapai pemahaman adegan penuh. Studi pada tahun 1970-an membentuk fondasi awal untuk banyak algoritma visi komputer yang ada saat ini, termasuk ekstraksi tepi dari gambar, pelabelan garis, pemodelan non-polihedral dan polihedral, representasi objek sebagai interkoneksi dari struktur yang lebih kecil, aliran optik, dan estimasi gerak.
+Dekade berikutnya ditandai dengan studi berdasarkan analisis matematika yang lebih ketat dan aspek kuantitatif dari visi komputer. Ini termasuk konsep matematika skala-ruang, inferensi bentuk dari berbagai isyarat seperti bayangan, tekstur dan fokus, serta model kontur yang dikenal sebagai snake. Para peneliti juga menyadari bahwa banyak dari konsep-konsep matematika ini dapat diperlakukan dalam kerangka optimisasi yang sama seperti regularisasi dan bidang acak Markov.
+Pada 1990-an, beberapa topik penelitian sebelumnya menjadi lebih aktif daripada yang lain. Penelitian dalam rekonstruksi 3D proyektif menyebabkan pemahaman yang lebih baik mengenai kalibrasi kamera. Dengan munculnya metode optimasi untuk kalibrasi kamera, disadari bahwa banyak ide yang telah dieksplorasi dalam teori penyesuaian bundel dari bidang fotogrametri. Ini mengarah pada metode rekonstruksi 3-D dari beberapa gambar. Kemajuan dibuat dalam masalah korespondensi stereo padat dan teknik stereo multipandang yang lebih maju. Pada saat yang sama, variasi potongan grafik digunakan untuk menyelesaikan segmentasi gambar. Dekade ini juga menandai pertama kalinya teknik pembelajaran statistik digunakan dalam praktik untuk mengenali wajah dalam gambar (lihat Eigenface). Menjelang akhir 1990-an, perubahan signifikan terjadi dengan meningkatnya interaksi antara bidang grafis komputer dengan visi komputer. Ini termasuk rendering berbasis gambar, perubahan gambar, interpolasi tampilan, jahitan gambar panorama dan rendering bidang cahaya awal.
+Perkembangan terkini ditandai dengan kebangkitan metode berbasis fitur, digunakan bersama dengan teknik  pembelajaran mesin dan kerangka kerja optimasi yang kompleks.
+
+
+== Penerapan di Indonesia ==
+Penerapan teknologi visi komputer di Indonesia telah dilakukan dalam berbagai aspek. Seperti diantaranya penegakan disiplin lalu lintas melalui teknologi yang dikembangkan oleh Polisi Republik Indonesia,  dan sistem pengukur kecepatan kendaraan berbasis video.
+
+
+== Lihat pula ==
+Pencitraan komputasi
+Fotografi komputasi
+Penglihatan mesin
+Pemetaan ruang
+Algoritma

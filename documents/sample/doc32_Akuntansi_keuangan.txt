@@ -1,0 +1,41 @@
+Judul: Akuntansi keuangan
+Sumber: Wikipedia Indonesia
+
+Akuntansi keuangan adalah cabang akuntansi yang berkaitan dengan pelaporan informasi keuangan kepada pihak eksternal. Prinsip akuntansi  keuangan berubah-ubah dan disesuaikan dengan kebutuhan pemakai informasi keuangan serta sistem bisnis. Fungsi dari akuntansi keuangan adalah sebagai alat pemrosesan data keuangan dan penyajian laporan keuangan. Kegiatan akhir dari akuntansi keuangan adalah penyusunan laporan keuangan yang dimanfaatkan oleh pihak internal maupun pihak eksternal. Manfaat dari adanya akuntansi keuangan adalah terbentuknya komunikasi bisnis atau komunikasi organisasi berkaitan dengan penilaian kinerja dan masa depan keuangan.
+
+
+== Isi ==
+
+
+=== Formulir gudang dan pesan barang ===
+Formulir gudang dan pesan barang dibuat untuk memenuhi informasi mengenai akuntansi keuangan. Sifat dari formulir ini adalah subjektif dan spesifik. Bentuk dan informasi yang disajikan berbeda-beda dan disesuaikan dengan keperluan informasi bagi organisasi.
+
+
+== Pendukung ==
+
+
+=== Sistem informasi akuntansi ===
+Sistem informasi akuntansi dapat menyajikan informasi keuangan dalam bentuk laporan akuntansi keuangan maupun akuntansi manajemen. Kemampuan ini didukung oleh teknologi komputer dan teknologi informasi. Sistem informasi akuntansi yang telah terkomputerisasi dapat membuat paket program akuntansi dari yang sederhana hingga yang rumit. Sistem informasi akuntansi yang dibutuhkan oleh perusahaan berbeda-beda, tetapi dapat menyajikan laporan keuangan dan laporan non-keuangan secara mudah, cepat, dan akurat. Akses terhadap informasi juga dapat dilakukan setiap saat.
+
+
+== Produk ==
+Akuntansi keuangan menghasilkan produk berupa laporan keuangan yang memberikan informasi mengenai entitas keuangan. Laporan keuangan yang dihasilkan melalui akuntansi keuangan dikhususkan kepada pemakai eksternal yaitu pemegang saham, investor, kreditur dan pemerintah. Gambaran mengenai kinerja keuangan perusahaan dapat terlihat di dalam laporan keuangan. Sebagian besar informasi keuangan yang disajikan di dalam laporan keuangan dibuat berdasarkan standar akuntansi keuangan dan ditujukan bagi investor. Hal ini dikarenakan investor memiliki risiko keuangan yang lebih banyak akibat statusnya sebagai pemberi modal. Pemusatan informasi kepada investor banyak dilakukan pada laporan keuangan entitas akuntansi di perusahaan. Pemusatan informasi kepada investor juga berlaku pada aturan-aturan penyusunan laporan keuangan.
+
+
+== Manfaat ==
+
+
+=== Penyediaan informasi keuangan ===
+Akuntansi keuangan selalu berkaitan dengan informasi keuangan. Pertanyaan-pertanyaan yang dijawab oleh akuntansi keuangan berkaitan dengan informasi keuangan. Tugas-tugas atau pekerjaan di dalam akuntansi keuangan bertujuan untuk mengumpulkan informasi keuangan. Informasi keuangan yang terkumpul kemudian disusun menjadi suatu struktur yang mampu membentuk komunikasi keuangan. Setelahnya, akuntansi keuangan kemudian dimanfaatkan untuk memahami informasi keuangan tersebut.
+Informasi keuangan selalu dibutuhkan oleh perusahaan untuk mengevaluasi kinerja keuangan dan memperkirakan masa depan keuangan. Evaluasi keuangan dapat dilakukan oleh perusahaan yang telah sukses maupun perusahaan yang sedang mengalami kebangkrutan. Akuntansi keuangan berperan sebagai penyedia informasi keuangan yang dibutuhkan oleh perusahaan. Penyampaian informasi keuangan melalui akuntansi keuangan dapat memberikan aturan dan struktur penyampaian informasi keuangan tentang bisnis. Penyajian informasi keuangan yang dilakukan secara lengkap dalam akuntansi keuangan dapat memperlihatkan kendala keuangan yang ada. Kelengkapan informasi ini berguna untuk menentukan pengambilan keputusan keuangan. Sementara itu, penyajian informasi keuangan secara jelas dapat menghindari kekeliruan dalam penafsiran informasi dan penggunaannya.
+
+
+== Pemakaian ==
+
+
+=== Akuntansi sektor publik ===
+Sektor publik dapat menggunakan salah satu dari beberapa jenis teknik akuntansi keuangan. Teknik ini antara lain akuntansi anggaran, akuntansi komitmen, akuntansi dana, akuntansi kas, atau akuntansi akrual. Masing-masing teknik tersebut tidak memiliki sifat penggunaan yang berlawanan. Pemakaian salah satu teknik akuntansi tersebut pada sektor publik tidak berarti bahwa penggunaan teknik lain ditolak. Sektor publik dapat menggunakan beberapa atau seluruh teknik tersebut bersamaan. Pemakaian terpisah umumnya dilakukan pada akuntansi kas, akuntansi akrual dan akuntansi komitmen. Penyebabnya adalah syarat waktu pengakuan pendapatan dan biaya yang berbeda di antara ketiganya. Perbedaan dalam pengakuan pendapatan dapat memengaruhi model pencatatan. Terdapat dua model yang menjadi penentu pengakuan pendapatan yaitu ketika faktur dikeluarkan dan barang dikirim, atau ketika faktur dibayarkan dan barang dikirim.
+
+
+=== Akuntansi keuangan daerah ===
+Akuntansi keuangan daerah merupakan kegiatan akuntansi yang berkaitan dengan manajemen keuangan daerah. Kegiatan di dalam akuntansi keuangan daerah secara khusus berkaitan dengan pelaporan keuangan dan pert

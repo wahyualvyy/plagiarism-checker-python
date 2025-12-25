@@ -1,9 +1,0 @@
-TF-IDF merupakan metode pembobotan kata yang banyak digunakan dalam text mining. Metode ini menghitung frekuensi kemunculan kata dalam dokumen dan koleksi dokumen. TF-IDF membantu menentukan kata yang paling representatif dalam suatu dokumen.
-
-TF-IDF membantu menentukan kata yang paling representatif dalam suatu dokumen. Metode ini menghitung frekuensi kemunculan kata dalam dokumen dan koleksi dokumen. Dalam penelitian ini, TF-IDF digunakan untuk representasi fitur teks.
-
-Metode ini menghitung frekuensi kemunculan kata dalam dokumen dan koleksi dokumen. TF-IDF membantu menentukan kata yang paling representatif dalam suatu dokumen. TF-IDF merupakan metode pembobotan kata yang banyak digunakan dalam text mining.
-
-Dalam penelitian ini, TF-IDF digunakan untuk representasi fitur teks. TF-IDF merupakan metode pembobotan kata yang banyak digunakan dalam text mining. TF-IDF membantu menentukan kata yang paling representatif dalam suatu dokumen.
-
-Dokumen akademik ke-12.

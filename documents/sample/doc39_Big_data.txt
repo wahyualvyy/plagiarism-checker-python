@@ -1,0 +1,55 @@
+Judul: Mahadata
+Sumber: Wikipedia Indonesia
+
+Mahadata, data raya, data raksasa, atau data bandang (bahasa Inggris: big data) adalah istilah umum untuk segala himpunan data dalam jumlah yang sangat besar, rumit, dan tak terstruktur sehingga menjadikannya sukar ditangani apabila hanya menggunakan perkakas manajemen pangkalan data biasa atau aplikasi pengolah data tradisional belaka. Mahadata juga dapat diartikan sebagai pertumbuhan data dan informasi yang eksponensial dengan kecepatan dalam pertambahannya dan memiliki data yang beragam sehingga menyebabkan tantangan baru dalam pengolahan sejumlah data besar yang heterogen dan mengetahui bagaimana cara memahami semua data tersebut.
+Mahadata dapat diterapkan di semua aspek yang ada misalnya pada bidang bisnis, kesehatan, pariwisata, pemerintahan, kejahatan, dan lainnya. Dengan menggunakan alat untuk pengambilan ataupun pengolahan datanya misalnya dengan menggunakan perangkat lunak Gephi, Python, Netlytics, NiFi, dan Tableau. Dengan memahami bahwa mahadata itu penting, maka suatu organisasi akan dengan mudah mengolah dan menganalisis sekumpulan data atau suatu masalah yang sedang dihadapi baik dari internal maupun eksternal organisasinya. Organisasi tersebut dapat menghemat biaya, menghemat waktu, dan menciptakan sebuah keputusan yang tepat.
+
+
+== Ciri khas ==
+Mahadata pada dasarnya memiliki beberapa ciri khas sebagai berikut:
+
+Volume
+Mahadata memiliki jumlah data yang sangat besar sehingga dalam proses pengolahan data dibutuhkan suatu penyimpanan yang besar dan dibutuhkan analisis yang lebih spesifik.
+
+Kecepatan (Velocity)
+Mahadata memiliki aliran data yang cepat dan real time.
+
+Keberagaman (Variety)
+Mahadata memiliki bentuk format data yang beragam baik terstruktur ataupun tidak terstruktur dan bergantung pada banyaknya sumber data.
+
+Keabsahan (Veracity)
+Mahadata memiliki tentang keabsahan sebuah data apakah bisa dipercaya atau tidak. Sangat penting bahwa keabsahan sebuah data bisa dipercaya dan dipertahankan.
+
+Nilai (Value)
+Nilai sebuah data menentukan keputusan yang diambil setelah memproses seluruh data.
+
+
+== Virtualisasi data ==
+Virtualisasi data adalah pendekatan untuk menyatukan data dari berbagai sumber dalam satu lapisan sehingga aplikasi, alat pelaporan, dan pengguna akhir dapat mengakses data tanpa memerlukan perincian tentang sumber asli, lokasi, dan struktur data.
+
+
+== Peralatan mahadata ==
+
+
+=== Gephi ===
+Gephi merupakan perangkat lunak sumber terbuka yang dapat digunakan untuk visualisasi dan analisis jaringan. Gephi dapat digunakan untuk membantu analis data untuk mengungkapkan pola dan tren, menyoroti secara spesifik mengenai outliers (orang ataupun suatu hal yang terpisah dari badan atau sistem utama) dan menceritakan mengenai data mereka. Gephi dapat menggunakan render engine 3D untuk menampilkan grafik waktu nyata (real-timel skala besar dan dapat digunakan untuk memperluas eksplorasi visualisasi dan analisis data. Gephi memiliki kemampuan karena terdiri dari gabungan arsitektur yang fungsional dan fleksibel yang dapat dikustomisasi dan disesuaikan sesuai kebutuhan dengan segala jenis jaringan yang ada untuk:
+
+Eksplor
+Analisis
+Visualisasi
+Spatialize
+Filter
+Cluster
+Manipulasi
+Export
+Gephi adalah hasil visualisasi dan manipulasi paradigma yang memperbolehkan pengguna untuk menemukan jaringan dan properti-properti data. Terlebih lagi, Gephi memang didesain untuk mengikuti dan menyesuaikan rantai dan alur dari sebuah himpunan data studi kasus yang memang memiliki banyak atribut. Gephi merupakan perangkat lunak yang dapat diakses bebas yang dapat didistribusikan dibawah GPL 3 (“GNU General Public License”). Paket atribut yang tersedia di Gephi dijalankan menggunakan Java pada platform NetBeans.
+
+
+=== Python ===
+Python merupakan bahasa pemrograman serbaguna yang bersifat menerjemahkan (interpret), berorientasi pada objek dan dapat dioperasikan pada semua sistem operasi seperti Linux, Windows, Mac, dan lainnya. Python dibuat oleh seorang keturunan Belanda yang bernama Guido van Rossum. Tujuan utama python adalah lebih memusatkan pada keterbacaan kode dalam memahami sintaks. Sintaks tersebut berfungsi untuk mempermudah dan mempercepat pemrogram dalam proses pengodeannya dibandingkan Java atau C++.
+Pada pengaplikasian python, terdapat banyak fungsi bawaan. Misalnya pada python 3.6 yang memiliki 68 fungsi bawaan seperti abs(), all(), any(), ascii(), bin(), dan lainnya yang dapat memudahkan penggunanya dalam menyelesaikan suatu pekerjaan.
+Dengan menggunakan python, para pengguna dapat melakukan pemuatan kembali secara dinamis seperti mengubah, mengontruksi, dan memodifikasi tanpa menghentikan modul python, dapat melakukan kompilasi untuk kode bita portabel yang berdampak pada peningkatan kecepatan eksekusi dan menjaga kode sumber, dan juga dapat mengatur memori otomatis, yaitu kumpulan memori yang kotor sehingga dapat mencegah pencacatan kode.
+
+
+=== Netlytic ===
+Netlytic adalah sebuah aplikasi berbasis web penganalisis teks berbasis cloud dan visualisasi jaringan sosial. Netlytic secara otomatis d

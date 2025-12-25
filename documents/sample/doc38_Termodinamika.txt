@@ -1,0 +1,29 @@
+Judul: Termodinamika
+Sumber: Wikipedia Indonesia
+
+Termodinamika merupakan salah satu cabang fisika yang membahas mengenai perubahan energi panas menjadi bentuk energi lain. Hukum pertama termodinamika dan hukum termodinamika kedua menjadi acuan dalam membahas mengenai perubahan energi. Pengukuran di dalam termodinamika tidak dinyatakan dengan besaran mikroskopis melainkan dengan besaran makroskopis. Termodinamika membahas mengenai hubungan antara energi, panas, kerja, entropi dan kespontanan proses. Termodinamika berhubungan dekat dengan mekanika statistika di mana hubungan termodinamika berasal. Asal kata termodinamika adalah dari dua kata bahasa Yunani yaitu thermos yang artinya panas dan dynamic  yang artinya perubahan.
+Penemuan konsep termodinamika diawal dengan usaha para ilmuwan abad ke-19 Masehi untuk membuat mesin yang memiliki kemampuan untuk mengadakan perubahan energi. Tujuan pengubahan energi ini awalnya untuk memudahkan pekerjaan dengan mengubah energi menjadi usaha dengan besar perubahan energi yang maksimal. Mesin paling awal yang dibuat oleh para ilmuwan mampu mengubah energi gerak menjadi energi potensial. Prinsip kerjanya didasarkan pada peristiwa tumbukan. Adanya usaha dari para ilmuwan ini yang kemudian pada abad ke-20 berhasil mengembangkan teori-teori mengenai termodinamika.
+Teori termodinamika berlaku pada keadaan panas atau sistem dengan keadaan setimbang pada saat dimulai maupun diakhiri. Setelah abad ke-19 Masehi, perkembangan teori termodinamika beralih ke fisika kuantum dan transisi-transisi fasa. Secara fenomenologi, pengembangan teori termodinamika ditujukan bagi sistem-sistem makroskopik. Dalam fisika, perumusan termodinamika menjadi suatu aksioma yang meliputi tiga hukum termodinamika. Konsep utama yang melandasi ketiga hukum termodinamika adalah energi dan entropi.
+
+
+== Sejarah ==
+
+
+=== Pompa vakum dan kompresor ===
+Penerapan ilmu termodinamika telah ada pada abad ke-3 SM di kota Iskandariyah. Pada masa tersebut, seorang penemu bernama Hero memanfaatkan ilmu termodinamika untuk mengatur posisi pintu gerbang di Kuil Iskandariyah. Secara ilmiah, ilmu termodinamika pertama kali dikembangkan oleh seorang ilmuwan berkebangsaan Jerman bernama Otto von Guericke pada tahun 1650. Perintisan ilmu termodinamika ini disertai dengan penemuan pompa vakum sekaligus ruangan vakum pertama di dunia. Rancangan pompa vakum yang dibuat oleh Guericke kemudian dipelajari oleh kimiawan dan fisikawan berkebangsaan Irlandia yaitu Robert Boyle. Setelah mempelajarinya, Boyle bersama dengan seorang ilmuwan berkebangsan Inggris bernama Robert Hooke mengadakan pengembangan rancangan selama tahun 1656. Hasil pengembangan ini adalah penemuan pompa udara yang kemudian disebut kompresor. Pompa ini kemudian digunakan oleh kedua penemu ini untuk menganalisis hubungan antara volume, tekanan dan temperatur.
+
+
+=== Hukum Boyle dan motor ===
+Hasil analisis antara volum, tekanan dan temperatur menghasilkan hukum Boyle. Hukum ini menyatakan bahwa tekanan dan volume mempunyai hubungan yang berbanding terbalik. Pada tahun 1679, rekan kerja Boyle yang bernama Denis Papin berhasil membuat ketel yang dapat menghasilkan uap dengan tekanan tinggi. Pada percobaan awalnya, ketel ini menghasilkan ledakan yang kuat sehingga diadakan perancangan ulang. Pada rancangan yang baru ditambahkan katup pembuka aliran uap air. Papin juga menjadi penghasil ide dalam pembuatan mesin yang menggunakan silinder dan torak dalam bentuk rancangan jadi. Rancangan ini tidak sempat dibuat oleh Papin, sehingga seorang insinyur bernama Thomas Savery yang melanjutkan pembuatannya. Hasil rancangan ini menghasilkan sebuah motor yang pertama di dunia.
+
+
+=== Mesin uap dan termodinamika klasik ===
+Pada abad ke-17 juga ditemukan mesin uap di Inggris. Keberadaan mesin uap ini memperluas bidang ilmu termodinamika. Setelahnya, bermunculan para ilmuwan di bidang termodinamika khususnya pada abad ke-19. Para ilmuwan ini antara lain William John Macquorn Rankine, Rudolf Clausius, dan Lord Kelvin. Perkembangan keilmuan termodinamika berkembang pada abad ke-19 Masehi ini dikenal sebagai termodinamika klasik. Pendekatan yang digunakan bersifat makroskopik. Pengamatan mengenai perilaku umum dari partikel zat yang menjadi media penyaluran energi menjadi ciri khas dari termodinamika klasik.
+
+
+=== Termodinamika modern ===
+Ilmu termodinamika kemudian berkembang melalui pengamatan mikroskopik. Pusat pengamatan adalah perilaku dari kumpulan partikel-partikel yang mempunyai sifat termodinamis. Dalam proses pengamatan ini digunakan statistik sehingga dikenal sebagai termodinamika statistik.
+
+
+== Hakikat ==
+Ilmu termodinamika seluruhnya dipusatkan terhadap konsep energi. Sementara itu, konsep energi bersifat abstrak sehingga sulit memberikan definisi secara tepat. Energi hanya dapat diketahui melalui dampak yang dihasilkan oleh energi tersebut. Hal ini membuat energi dapat didefinisikan secara berbeda pada sudut pandang yang berbeda. Energi itu sendiri selalu ada dan dimanfaatkan oleh manusia dalam kehidupan sehari-hari. Keha

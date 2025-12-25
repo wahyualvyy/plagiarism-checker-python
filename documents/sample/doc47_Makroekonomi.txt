@@ -1,0 +1,28 @@
+Judul: Ekonomi makro
+Sumber: Wikipedia Indonesia
+
+Ekonomi makro atau makroekonomi adalah studi tentang ekonomi secara keseluruhan. Makroekonomi menjelaskan perubahan ekonomi yang memengaruhi banyak masyarakat, perusahaan, dan pasar. Ekonomi makro dapat digunakan untuk menganalisis cara terbaik untuk memengaruhi target-target kebijaksanaan seperti pertumbuhan ekonomi, stabilitas harga, tenaga kerja dan pencapaian keseimbangan neraca yang berkesinambungan.
+Meskipun ekonomi makro merupakan bidang pembelajaran yang luas. Ada dua area penelitian yang menjadi ciri khas disiplin ini: kegiatan untuk mempelajari sebab dan akibat dari fluktuasi penerimaan negara jangka pendek (siklus bisnis), dan kegiatan untuk mempelajari faktor penentu dari pertumbuhan ekonomi jangka panjang (peningkatan pendapatan nasional). Model makroekonomi yang ada dan prediksi-prediksi yang ada jamak digunakan oleh pemerintah dan korporasi besar untuk membantu pengembangan dan evaluasi kebijakan ekonomi dan strategi bisnis.
+
+
+== Konsep dasar ==
+Makroekonomi meliputi berbagai konsep dan variabel, tetapi selalu ada tiga topik utama untuk penelitian makroekonomi. Teori-teori mengenai makroekonomi biasanya terhubung dengan fenomena keluaran, pengangguran dan inflasi. Di luar teori makroekonomi, topik-topik tersebut juga sangatlah penting untuk semua agen ekonomi termasuk pekerja, konsumen dan produsen.
+
+
+=== Pengeluaran dan pendapatan ===
+Keluaran nasional ialah total nilai seluruh produksi negara pada masa yang sudah ditentukan. Semua yang diproduksi dan dijual menghasilkan pendapatan. Maka dari itu, keluaran dan pendapatan biasanya dianggap setara dan dua istilah tersebut sering digunakan berganti-gantian. Keluaran bisa diukur sebagai jumlah pendapatan, atau, bisa dilihat dari sisi produksi dan diukur sebagai jumlah nilai barang jadi dan jasa atau bisa juga dari penjumlahan seluruh nilai tambah di dalam negeri.
+Keluaran ekonomi makro biasanya diukur dengan Produk Domestik Bruto (PDB) atau salah satu akun nasional. Ekonom yang tertarik dengan kenaikan keluaran jangka panjang akan mempelajari pertumbuhan ekonomi. Kemajuan teknologi, akumulasi mesin dan modal lainnya, serta pendidikan yang lebih baik dan modal manusia semuanya akan berujung pada keluaran ekonomi lebih besar di selama berjalannya waktu. Tetapi, keluaran tidak selalu naik secara konsisten. Siklus bisnis bisa menyebabkan penurunan keluaran jangka pendek yang disebut resesi. Ekonom mencari kebijakan ekonomi makro yang bisa mencegah ekonomi anjlok ke jurang resesi dan akhirnya bisa memacu pertumbuhan jangka panjang dengan lebih cepat.
+
+
+=== Pengangguran ===
+
+Jumlah pengangguran di sebuah ekonomi diukur dengan angka pengangguran, yaitu persentase pekerja-pekerja tanpa pekerjaan yang ada di dalam angkatan kerja. Angkatan kerja hanya memasukan pekerja yang aktif mencari kerja. Orang-orang pensiunan, mengejar pendidikan atau yang tidak mendapat dukungan mencari kerja karena ketiadaan prospek kerja, tidaklah termasuk di dalam angkatan kerja.
+Pengangguran sendiri bisa dibagi menjadi beberapa tipe yang semuanya berkaitan dengan sebab-sebab yang berbeda pula. Pengangguran klasikal terjadi ketika gaji karyawan terlalu tinggi sehingga pengusaha tidak berani memperkerjakan karyawan lebih dari yang sudah ada. Gaji bisa menjadi terlalu tinggi karena peraturan upah minimum atau adanya aktivitas serikat pekerja. Sama halnya dengan pengangguran klasikal, pengangguran friksional terjadi apabila ada lowongan pekerjaan untuk pekerja tetapi waktu untuk mencarinya menyebabkan adanya periode di mana si pekerja tersebut menjadi pengangguran.
+Pengangguran struktural meliputi beberapa jenis penyebab pengangguran termasuk ketidakcocokan antara kemampuan pekerja dan kemampuan yang dicari oleh pekerjaan yang ada. Pengangguran besar-besaran bisa terjadi ketika sebuah ekonomi mengalami masa transisi industri dan kemampuan para pekerja menjadi tak terpakai. Pengangguran struktural itu juga cukup mirip dengan pengangguran friksional karena dua-duanya berkutat pada masalah ketidakcocokan kemampuan pekerja dengan lowongan pekerjaan, tetapi pengangguran struktural berbeda karena meliputi juga kebutuhan untuk menambah kemampuan diri, tidak hanya proses pencarian jangka pendek.
+Walaupun ada beberapa jenis pengangguran yang selalu ada saja mau bagaimanapun kedaaan ekonomi pada saat itu, pengangguran siklikan terjadi ketika pertumbuhan ekonomi menjadi stagnan. Hukum Okun menunjukan hubungan empiris antara pengangguran dan pertumbuhan ekonomi. Versi asli dari Hukum Okun menyatakan bahwa 3% kenaikan keluaran ekonomi akan mengakibatkan 1% penurunan angka pengangguran.
+
+
+=== Inflasi dan deflasi ===
+
+Kenaikan harga umum disebuah ekonomi disebut dengan inflasi. Ketika harga menurun, maka terjadi deflasi. Ekonom mengukur perubahan harga ini menggunakan indeks harga. Inflasi bisa terjadi ketika suhu ekonomi menjadi terlalu panas dan tumbuh terlalu cepat. Mirip dengan ini, ekonomi yang merosot bisa mengakibatkan deflasi.
+Bank Sentral yang mengatur ketersediaan uang suatu negara, se

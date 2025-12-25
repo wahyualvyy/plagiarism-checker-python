@@ -1,0 +1,47 @@
+Judul: Teknik listrik
+Sumber: Wikipedia Indonesia
+
+Teknik listrik atau teknik elektro (bahasa Inggris: electrical engineering, bahasa Belanda: elektrotechniek) adalah salah satu bidang ilmu teknik mengenai aplikasi listrik untuk memenuhi kebutuhan masyarakat. Teknik listrik melibatkan konsep, perancangan, pengembangan, dan produksi peralatan listrik dan elektronik yang dibutuhkan oleh masyarakat. Insinyur listrik adalah kaum profesional yang memegang peranan penting dalam mengembangkan dan memajukan teknologi tinggi dalam dunia komputer, laser, penjelajahan angkasa, telekomunikasi, energi, dan aplikasi lainnya dari perangkat dan sistem elektronik. Teknik listrik bekerja sama dengan insinyur dari area lain seperti teknik kimia, teknik mesin, dan teknik sipil untuk merancang, mengembangkan, dan membantu produksi berbagai macam produk dan jasa seperti sistem distribusi energi, komputer pribadi, sistem satelit, radio genggam, sistem radar, mobil listrik, jantung buatan, dan lain-lain yang melibatkan komponen listrik dan elektronik.
+
+
+== Bidang-bidang ==
+Ada dua kegunaan utama dari kelistrikan, yaitu sebagai sarana untuk mengirimkan daya listrik dari satu tempat ke tempat lain dan sebagai sarana untuk mengirimkan informasi. Secara tradisional, bidang teknik listrik dapat dibagi ke dalam tujuh area spesialisasi berikut ini:
+
+
+=== Teknik tenaga listrik ===
+
+Teknik tenaga listrik memiliki sejarah yang panjang, dimulai pada tahun 1879 saat Thomas Alva Edison berhasil menciptakan lampu pijar yang dapat digunakan secara praktis. Dalam waktu beberapa tahun Edison membangun sistem distribusi tenaga listrik arus searah di seputaran kota New York yang dapat menyuplai sekitar 400 lampu. Pada akhir tahun 1880an distribusi arus listrik menggunakan arus bolak-balik mulai berkembang dan digunakan hingga saat ini.
+Teknik tenaga listrik adalah satu-satunya bidang yang secara khusus berkaitan dengan pembangkitan dan transmisi daya listrik dari satu tempat ke tempat lain. Ini adalah spesialisasi tertua dari teknik tenaga listrik.
+
+
+=== Teknik elektromagnetik ===
+Teknik elektromagnetik menjembatani aplikasi listrik sebagai pemindahan energi dan transfer informasi. Teknik elektromagnetik berkaitan dengan interaksi antara medan magnet dan medan listrik, serta arus listrik. Gambar di samping melukiskan spektrum gelombang elektromagnet yang berkisar dari gelombang frekuensi rendah hingga sinar gama. Dengan adanya teknik ini dimungkinkanlah telekomunikasi radio, televisi, komunikasi satelit, radar, dan semua bentuk komunikasi nirkabel lainnya.
+
+
+=== Teknik telekomunikasi ===
+Teknik telekomunikasi berfokus pada rekayasa dan ilmu yang dibutuhkan untuk mengirimkan informasi dari satu tempat ke tempat lain. Sistem telekomunikasi dapat memanfaatkan gelombang elektromagnetik, berbagai macam kabel listrik, atau serat optik untuk pengiriman informasi. Salah satu hal penting yang dijawab oleh teknik telekomunikasi adalah bagaimana cara mengodekan informasi ke dalam sinyal listrik. Perkembangan teknik telekomunikasi telah membuat banyak sistem mutakhir untuk mengodekan informasi untuk dikirmkan dan untuk menyarikan informasi dari sinyal.
+
+
+=== Teknik komputer ===
+
+Teknik komputer adalah salah satu spesialisasi yang berkembang paling cepat dalam dunia teknik listrik. Teknik komputer meliputi perancangan sistem perangkat keras dan program komputer. Sistem komputer berkisar dari komputer besar atau disebut dengan mainframe yang digunakan dalam dunia perbankan, rekayasa, dan sains hingga komputer pribadi yang digunakan secara perorangan hingga belakangan juga digunakan secara komersial.
+
+
+=== Teknik elektronika ===
+Teknik elektronika adalah teknik yang berhubungan dengan berbagai material dalam berbagai konfigurasi atau struktur yang dapat mengatur aliran arus listrik. Dalam teknik elektronika dikenal dan digunakan berbagai komponen seperti diode, transistor, dan sirkuit terpadu untuk membangun perangkat keras. Hasil dari teknik elektronika digunakan secara langsung oleh bidang lain seperti teknik komputer dan teknik telekomunikasi dengan sirkuit terintegrasi sebagai salah satu kemajuan terbesar yang paling dimanfaatkan.
+
+
+=== Teknik rekayasa sistem ===
+Rekayasa sistem memanfaatkan prinsip-prinsip matematika untuk memodelkan dan menjelaskan sistem kompleks dan memprediksi kehandalannya berdasarkan analisis teknik. Berdasarkan deskripsi matematis dari sebuah masalah, seorang insinyur dapat memperkirakan kejadian dari sesuatu hal pada kondisi yang ada dan membuat solusi yang optimal.
+
+
+=== Teknik kendali ===
+
+Sistem kendali berkaitan dengan sistem elektronik yang dirancang untuk memberikan pengaturan cepat dan tepat terhadap suatu perintah. Teknik sistem kendali sangat banyak dipelajari dalam teknik listrik. Sistem kendali tidak terbatas pada sistem elektrikal melainkan hingga pengendalian sistem kimia, sistem hidraulis, dan sistem mekanik lainnya.
+
+
+== Referensi ==
+
+
+== Pranala luar ==
+(Inggris) Situs web IEEE (Institute of Electrical and Electronics Engineer) - organisasi profesional insinyur teknik 

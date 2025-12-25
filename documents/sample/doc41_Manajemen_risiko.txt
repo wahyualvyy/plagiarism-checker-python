@@ -1,0 +1,29 @@
+Judul: Manajemen risiko
+Sumber: Wikipedia Indonesia
+
+Manajemen risiko adalah suatu pendekatan terstruktur atau metodologi dalam mengelola ketidakpastian yang berkaitan dengan ancaman; suatu rangkaian aktivitas manusia termasuk: Penilaian risiko, pengembangan strategi untuk mengelolanya dan mitigasi risiko dengan menggunakan pemberdayaan atau pengelolaan sumberdaya. Strategi yang dapat diambil antara lain adalah memindahkan risiko kepada pihak lain, menghindari risiko, mengurangi efek negatif risiko, dan menampung sebagian atau semua konsekuensi risiko tertentu. Manajemen risiko tradisional terfokus pada risiko-risiko yang timbul oleh penyebab fisik atau legal (seperti bencana alam atau kebakaran, kematian, serta tuntutan hukum. Manajemen risiko keuangan, di sisi lain, terfokus pada risiko yang dapat dikelola dengan menggunakan instrumen-instrumen keuangan.
+Pengukuran dan penilaian risiko serta pengembangan strategi untuk mengelolanya dikenal sebagai manajemen risiko. Risiko adalah kemungkinan terjadi hasil yang tidak diinginkan, sedangkan kejadian risiko didefinisikan sebagai peristiwa yang memiliki peluang untuk menghasilkan hasil yang tidak diinginkan.
+Sasaran dari pelaksanaan manajemen risiko adalah untuk mengurangi risiko yang berbeda-beda yang berkaitan dengan bidang yang telah dipilih pada tingkat yang dapat diterima oleh masyarakat. Hal ini dapat berupa berbagai jenis ancaman yang disebabkan oleh lingkungan, teknologi, manusia, organisasi dan politik. Di sisi lain pelaksanaan manajemen risiko melibatkan segala cara yang tersedia bagi manusia, khususnya, bagi entitas manajemen risiko (manusia, staff, dan organisasi).
+Dalam perkembangannya Risiko-risiko yang dibahas dalam manajemen risiko dapat diklasifikasi menjadi
+
+Risiko Operasional
+Risiko Hazard
+Risiko Finansial
+Risiko Strategik
+Hal ini menimbulkan ide untuk menerapkan pelaksanaan manajemen risiko terintegrasi korporasi.
+
+
+== Proses Manajemen Risiko ==
+Manajemen risiko merupakan suatu proses sistematis yang bertujuan untuk mengantisipasi potensi kerugian atau ancaman yang dapat memengaruhi individu, organisasi, maupun perusahaan. Proses ini dimulai dari identifikasi risiko, yaitu tahap mengenali berbagai kemungkinan risiko yang mungkin muncul, baik dari faktor internal maupun eksternal. Identifikasi ini penting karena menjadi dasar dalam menentukan langkah-langkah pengelolaan selanjutnya.
+Tahap berikutnya adalah penilaian risiko (risk assessment), di mana risiko yang telah diidentifikasi dianalisis lebih lanjut untuk menilai seberapa besar kemungkinan terjadinya dan seberapa besar dampaknya terhadap tujuan yang ingin dicapai. Melalui penilaian ini, risiko dapat diprioritaskan sesuai tingkat urgensinya.
+Setelah itu dilakukan mitigasi risiko, yaitu serangkaian upaya untuk mengurangi atau meminimalisir dampak dari risiko yang telah diidentifikasi. Mitigasi bisa dilakukan dengan berbagai cara, seperti menghindari risiko, mengurangi kemungkinan terjadinya, memindahkan risiko kepada pihak lain (misalnya dengan asuransi), atau menerima risiko dengan perencanaan yang matang.
+Proses manajemen risiko tidak berhenti di situ, karena diperlukan pula pengawasan (monitoring) untuk memastikan strategi mitigasi berjalan sesuai rencana dan mampu mengendalikan risiko secara efektif. Risiko dapat berubah seiring perkembangan lingkungan, sehingga strategi yang diterapkan juga perlu diperbarui.
+Tahap terakhir adalah evaluasi, yaitu menilai kembali keseluruhan proses manajemen risiko guna mengetahui sejauh mana langkah-langkah yang dilakukan berhasil dan apa yang perlu diperbaiki di masa depan. Evaluasi ini juga membantu perusahaan atau organisasi dalam menyusun strategi manajemen risiko yang lebih baik dan adaptif terhadap kondisi baru.
+Dengan menjalankan semua tahapan tersebut secara berkesinambungan, manajemen risiko dapat menjadi alat yang efektif untuk menjaga keberlangsungan aktivitas, mengurangi potensi kerugian, dan mendukung tercapainya tujuan organisasi.
+
+
+== Sejarah ==
+Rekaman tertua terkait pengelolaan risiko dapat ditemukan pada Piagam Hammurabi yang dibuat pada tahun 2100 sebelum Masehi. Piagam tersebut mencantumkan peraturan di mana pemilik kapal dapat meminjam uang untuk membeli kargo. Namun bila dalam perjalanan kapalnya tenggelam atau hilang, ia tidak perlu mengembalikan uang pinjaman tersebut. Masa ini disebut sebagai zaman pertama manajemen risiko, di mana perusahaan hanya melihat risiko non-kewirausahaan. Salah satu contohnya adalah risiko keamanan.
+Tahun 1970-an dan 1980-an disebut sebagai zaman kedua manajemen risiko di mana perusahaan-perusahaan asuransi mulai berusaha mendorong pengusaha untuk benar-benar menjaga barang yang diasuransikan. Pada masa ini juga lahir konsep penjaminan mutu yang menjamin setiap produk memenuhi spesifikasi standarnya. Konsep ini dipopulerkan oleh British Standards Institution yang meluncurkan standar kualitas BS 5750 pada tahun 1979.
+Pada tahun 1993, James Lam diangkat menjadi Chief Risk Office, yang merupakan jabatan CRO pertama di dunia.
+Zaman ketiga manajemen risiko 

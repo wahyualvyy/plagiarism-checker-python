@@ -1,0 +1,25 @@
+Judul: Pemelajaran mesin
+Sumber: Wikipedia Indonesia
+
+Pemelajaran mesin (bahasa Inggris: machine learning atau disingkat dengan ML) adalah sub-bidang kecerdasan buatan yang berkaitan dengan pengembangan dan studi algoritma statistik yang dirancang untuk dapat belajar secara mandiri dari data, kemudian menggunakan pembelajaran tersebut untuk menggeneralisasi dan menangani data baru yang belum pernah ditemui sebelumnya, sehingga sistem ML dapat menjalankan tugas-tugas tertentu tanpa memerlukan instruksi eksplisit yang terprogram sebelumnya. Belakangan, jaringan syaraf tiruan generatif telah menunjukkan performa yang mengungguli berbagai pendekatan konvensional dalam berbagai bidang.
+Pendekatan pemelajaran mesin telah diimplementasikan di banyak bidang, seperti model bahasa besar (large language model (LLM)), visi komputer, pengenalan ucapan, penyaringan email, agrikultur, dan kedokteran. Bidang-bidang ini membutuhkan kemampuan untuk menangani tugas-tugas kompleks yang sulit dan mahal jika dikembangkan dengan algoritma tradisional. Pemelajaran mesin dikenal dalam aplikasinya dalam menyelesaikan masalah bisnis dengan nama analisis prediktif. Meskipun tidak semua algoritma pemelajaran mesin didasarkan pada statistik, statistik komputasional adalah sumber penting dari metode-metode di bidang ini.
+Landasan matematis dari pemelajaran mesin diambil dari metode optimisasi matematis (pemrograman matematis). Penggalian data (data mining), bidang studi paralel yang erat kaitannya, berfokus pada analisis data eksploratif melalui pemelajaran tak terarah.  Dari perspektif teoretis, kerangka PAC (Probably Approximately Correct) learning memberikan model untuk mendeskripsikan ML.
+
+
+== Definisi ==
+Mesin yang dimaksud di sini adalah mesin dalam pengertian lebih mendekati kepada ‘sistem’, bukan mesin 'mekanik'. Istilah pemelajaran pertama kali muncul dalam disiplin ilmu kecerdasan buatan. Pemelajaran berarti menambah pengetahuan, memahami dengan belajar, dan mengikuti perintah. Pemelajaran mesin merupakan salah satu cabang dari kecerdasan buatan yang membahas mengenai pembangunan sistem yang didapat berdasarkan pada pemelajaran data, atau sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Inti dari pemelajaran mesin adalah representasi dan generalisasi.
+Pada tahun 1959, Arthur Samuel mendefinisikan bahwa pemelajaran mesin adalah bidang studi yang memberikan kemampuan untuk belajar tanpa diprogram secara eksplisit. Kemampuan belajar yang menjadi dominan ditentukan oleh kemampuan perangkat lunak atau alogaritmanya. Implementasi kemampuan belajar dapat dicapai dengan berbagai teknik, ada yang menggunakan kaidah (rule), ada yang menggunakan statistika, ada yang menggunakan pendekatan fisiologi yaitu sistem saraf manusia atau disebut dengan ANN (artificial neural network) atau jaringan saraf tiruan. Pemelajaran mesin dapat berfungsi untuk beradaptasi dengan suatu keadaan yang baru, serta untuk mendeteksi dan memperkirakan suatu pola.
+
+
+== Sejarah ==
+
+Pada tahun 1951, John McCarthy yang baru saja mendapatkan gelar PhD meyakinkan Minsky, Claude Shannon, dan Nathaniel Rochester untuk membantunya membawa peneliti Amerika Serikat yang memiliki ketertarikan pada teori automata, jaring saraf, dan studi mengenai kecerdasan menjadi satu. Mereka mengorganisasi sebuah lokakarya di Dartmouth College di Hanover, New Hampshire pada tahun 1956. Pada saat itulah dianggap menjadi tahun lahirnya kecerdasan buatan. Sejak awal, para peneliti kecerdasan buatan tidak segan membuat prediksi mengenai keberhasilan dari kecerdasan buatan ini. Pada awalnya kecerdasan buatan berkembang cukup pesat, hal ini disebabkan karena ekspektasi yang terlalu tinggi dari para peneliti di bidang ini. Hingga pada tahun 1974, bidang kecerdasan buatan mulai kurang diminati. Sampai pada tahun 1980, ketertarikan terhadap kecerdasan buatan sebagai bidang penelitian mulai bangkit kembali. Salah satu yang mendukung hal ini adalah hasil kerja Yarowsky (1995), ia melakukan percobaan menggunakan pemelajaran mesin dan mendapatkan hasil diatas 96% untuk ke akuratan dari percobaannya. Setelah Yarowsky banyak orang-orang yang melakukan percobaan menggunakan pemelajaran mesin dan mendapatkan hasil yang memuaskan, dari sinilah pemelajaran mesin dapat semakin berkembang hingga hari ini.
+
+
+== Hubungan dengan bidang lainnya ==
+
+
+=== Kecerdasan buatan ===
+
+Sebagai hasil dari upaya ilmiah, pemelajaran mesin berkembang dari penelitian tentang kecerdasan buatan (AI). Pada masa-masa awal AI sebagai suatu disiplin ilmu, beberapa peneliti tertarik untuk menjadikan mesin belajar dari data. Mereka berusaha melakukan pendekatan dengan berbagai metode simbolis, serta apa yang kemudian disebut sebagai jaringan syaraf tiruan yang kebanyakannya berupa perseptron dan ADALINE, yang kemudian dikenal sebagai penemuan ulang (reinvention) dari model linear umum statistik. Penalaran probabilistik juga digunakan, terutama dalam diagnosis medis otomatis.
+Meskipun begitu, peningkatan fokus pada pendekatan logis, berbasis pengetahuan, men

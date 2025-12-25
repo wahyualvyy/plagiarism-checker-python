@@ -1,0 +1,59 @@
+Judul: Sistem pakar
+Sumber: Wikipedia Indonesia
+
+Sistem pakar adalah suatu program komputer yang mengandung pengetahuan dari satu atau lebih pakar manusia mengenai suatu bidang spesifik. Jenis program ini pertama kali dikembangkan oleh periset kecerdasan buatan pada dasawarsa 1960-an dan 1970-an dan diterapkan secara komersial selama 1980-an. Bentuk umum sistem pakar adalah suatu program yang dibuat berdasarkan suatu set aturan yang menganalisis informasi (biasanya diberikan oleh pengguna suatu sistem) mengenai suatu kelas masalah spesifik serta analisis matematis dari masalah tersebut. Tergantung dari desainnya, sistem pakar juga mampu merekomendasikan suatu rangkaian tindakan pengguna untuk dapat menerapkan koreksi. Sistem ini memanfaatkan kapabilitas penalaran untuk mencapai suatu simpulan.
+Tujuan Sistem Pakar adalah mentransfer kepakaran seorang pakar ke komputer, kemudian melanjutkannya dari komputer ke orang lain (yang bukan pakar).
+
+
+== Arsitektur perangkat lunak ==
+Terdapat dua mode utama terkait dengan mesin inferensi, yakni forward chaining dan backward chaining.
+
+
+== Sejarah Sistem Pakar ==
+Sistem pakar pertama, yang disebut Dendral, dikembangkan di Stanford pada akhir 1960-an. Ini adalah sistem pakar yang menentukan struktur molekul organik dengan rumus kimia dan data spektrografi pada ikatan kimia dalam molekul. Nilai Dendral adalah sebagai berikut. Molekul organik biasanya sangat besar dan oleh karena itu jumlah struktur yang mungkin untuk molekul ini juga besar. Berkat pengetahuan heuristik ahli kimia ahli yang tertanam dalam sistem pakar, dari sejuta solusi yang mungkin, solusi yang tepat ditemukan hanya dalam beberapa upaya. Prinsip dan ide di balik Dendral telah terbukti sangat efektif sehingga masih digunakan sampai sekarang di laboratorium kimia dan farmasi di seluruh dunia.
+Sistem pakar Dendral adalah salah satu yang pertama menggunakan pengetahuan heuristik spesialis untuk mencapai tingkat ahli dalam memecahkan masalah, namun, metodologi sistem pakar modern dikaitkan dengan pengembangan lain - Mycin. Itu menggunakan pengetahuan para ahli medis untuk mendiagnosis dan mengobati meningitis khusus dan infeksi darah bakteri.
+Sistem pakar Mycin, yang dikembangkan di Stanford yang sama pada pertengahan 1970-an, adalah salah satu yang pertama untuk mengatasi masalah pengambilan keputusan berdasarkan informasi yang tidak dapat diandalkan atau tidak mencukupi. Semua penalaran dari sistem pakar Mycin didasarkan pada prinsip-prinsip logika kontrol, sesuai dengan spesifik area subjek. Banyak teknik pengembangan sistem pakar yang digunakan saat ini dipelopori oleh proyek Mycin.[1]
+
+
+== Kelebihan Sistem Pakar ==
+Secara garis besar, banyak manfaat yang dapat diambil dengan adanya sistem pakar, antara lain:
+
+Memungkinkan orang awam bisa mengerjakan pekerjaan para ahli.
+Bisa melakukan proses secara berulang secara otomatis.
+Menyimpan pengetahuan dan keahlian para pakar.
+Meningkatkan output dan produktivitas.
+Meningkatkan kualitas.
+Mampu mengambil dan melestarikan keahlian para pakar (terutama yang termasuk keahlian langka).
+Mampu beroperasi dalam lingkungan yang berbahaya.
+Memiliki kemampuan untuk mengakses pengetahuan.
+Memiliki reliabilitas.
+Meningkatkan kapabilitas sistem komputer.
+Memiliki kemampuan untuk bekerja dengan informasi yang tidak lengkap dan mengandung ketidakpastian.
+Sebagai media pelengkap dalam pelatihan.
+Meningkatkan kapabilitas dalam penyelesaian masalah.
+
+
+== Kelemahan Sistem Pakar ==
+Di samping memiliki beberapa keuntungan, sistem pakar juga memiliki beberapa kelemahan, antara lain:
+
+Biaya yang diperlukan untuk membuat dan memeliharanya relatif mahal karena diperlukan banyak data.
+Dibutuhkan admin khusus yang selalu memperbaharui pengetahuan pada sistem pakar sesuai perkembangan di bidang keahliannya.
+Pengembangan perangkat lunak sistem pakar lebih sulit dibandingkan perangkat lunak konvensional.
+Sulit dikembangkan.
+Membutuhkan waktu yang lama untuk membuatnya.
+
+
+== Contoh Sistem Pakar ==
+MYCIN: diagnosis penyakit
+Dendral: mengidentifikasikan struktur molekul campuran kimia yang tidak dikenal
+XCON & XSEL: konfigurasi sistem komputer besar
+Prospector: bidang geologi.
+
+
+== Rujukan ==
+
+
+== Pranala luar ==
+(Inggris) The difference between an Expert system and business rules management system Diarsipkan 2007-03-12 di Wayback Machine.
+(Inggris) What Is An Expert System? Diarsipkan 2006-12-01 di Wayback Machine.
+(Inggris) Expert System Vendors

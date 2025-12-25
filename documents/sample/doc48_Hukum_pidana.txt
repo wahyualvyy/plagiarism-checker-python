@@ -1,0 +1,41 @@
+Judul: Hukum pidana
+Sumber: Wikipedia Indonesia
+
+Hukum Pidana atau Hukum Kriminal (bahasa Belanda: Strafrecht) adalah keseluruhan dari peraturan-peraturan yang menentukan perbuatan apa yang dilarang dan terlarang termasuk ke dalam tindak pidana, serta menentukan hukuman apa yang dapat dijatuhkan terhadap yang melakukannya.
+Dengan demikian hukum pidana bukanlah mengadakan norma hukum sendiri, melainkan sudah terletak pada norma lain dan sanksi pidana. Diadakan untuk menguatkan ditaatinya norma-norma lain tersebut, misalnya norma agama dan kesusilaan.
+Dalam hukum pidana materil dikenal yang namanya tindak pidana. Adapun yang dimaksud dengan tindak pidana adalah suatu tindakan melawan hukum yang dilakukan oleh seseorang yang dapat dipertanggungjawabkan dan atas perbuatannya tersebut diancam dengan sanksi tertentu. Tindak pidana dibagi menjadi 2, yaitu: tindak pidana materil (delik materil) dan tindak pidana formil (delik formil). Yang dimaksud dengan delik materil adalah delik yang hanya menyebutkan akibat yang terjadi, misalnya di dalam Pasal 338 KUHP (pembunuhan biasa (doodslag)) yang menyebutkan hilangnya nyawa orang lain (akibat). Yang dimaksud dengan delik formil adalah delik yang menyebutkan cara-cara tindak pidana dilakukan, misalnya di dalam Pasal 362 KUHP (pencurian) yang menyebutkan cara-cara mencuri yaitu dengan cara diam-diam mengambil barang orang lain yang sebagian atau seluruhnya milik orang lain (cara mencuri).
+
+
+== Sumber-Sumber Hukum Pidana ==
+Menurut Prof. Moeljatno, S.H. Hukum Pidana adalah bagian daripada keseluruhan hukum yang berlaku di suatu negara, yang mengadakan dasar-dasar dan aturan-aturan untuk:
+
+Menentukan perbuatan-perbuatan mana yang tidak boleh dilakukan dan yang dilarang, dengan disertai ancaman atau sanksi yang berupa pidana tertentu bagi barang siapa yang melanggar larangan tersebut.
+Menentukan kapan dan dalam hal-hal apa kepada mereka yang telah melanggar larangan-larangan itu dapat dikenakan atau dijatuhi pidana sebagaimana yang telah diancamkan.
+Menentukan dengan cara bagaimana pengenaan pidana itu dapat dilaksanakan apabila ada orang yang disangka telah melanggar larangan tersebut.
+Sedangkan menurut Sudarsono, pada prinsipnya Hukum Pidana adalah yang mengatur tentang kejahatan dan pelanggaran terhadap kepentingan umum dan perbuatan tersebut diancam dengan pidana yang merupakan suatu penderitaan.
+Sumber Hukum Pidana dapat dibedakan atas sumber hukum tertulis dan sumber hukum yang tidak tertulis. Di Indonesia sendiri, kita belum memiliki Kitab Undang-Undang Hukum Pidana Nasional, sehingga masih diberlakukan Kitab Undang-Undang Hukum Pidana warisan dari pemerintah kolonial Hindia Belanda.
+Adapun sistematika Kitab Undang-Undang Hukum Pidana antara lain:
+
+Buku I Tentang Ketentuan Umum (Pasal 1-103).
+Buku II Tentang Kejahatan (Pasal 104-488).
+Buku III Tentang Pelanggaran (Pasal 489-569).
+Dan juga ada beberapa Undang-undang yang mengatur tindak pidana khusus yang dibuat setelah kemerdekaan antara lain:
+
+UU No. 8 Drt Tahun 1955 tentang Tindak Pidana Imigrasi.
+UU No. 9 Tahun 1967 tentang Narkoba.
+UU No. 16 Tahun 2003 tentang Anti Terorisme. dll
+Ketentuan-ketentuan Hukum Pidana, selain termuat dalam Kitab Undang-Undang Hukum Pidana maupun UU Khusus, juga terdapat dalam berbagai Peraturan Perundang-Undangan lainnya, seperti UU. No. 5 Tahun 1960 Tentang Peraturan Dasar Pokok-Pokok Agraria, UU No. 9 Tahun 1999 Tentang Perlindungan Konsumen, UU No. 19 Tahun 2002 Tentang Hak Cipta dan sebagainya. Hal tersebut dimungkinkan karena adanya pasal jembatan yakni Pasal 103 Kitab Undang-Undang Hukum Pidana.
+
+
+=== Asas-Asas Hukum Pidana ===
+Asas Legalitas, tidak ada suatu perbuatan dapat dipidana kecuali atas kekuatan aturan pidana dalam Peraturan Perundang-Undangan yang telah ada sebelum perbuatan itu dilakukan (Pasal 1 Ayat (1) KUHP). Jika sesudah perbuatan dilakukan ada perubahan dalam Peraturan Perundang-Undangan, maka yang dipakai adalah aturan yang paling ringan sanksinya bagi terdakwa (Pasal 1 Ayat (2) KUHP)
+Asas Tiada Pidana Tanpa Kesalahan (Geen Straf Zonder Schuld). Untuk menjatuhkan pidana kepada orang yang telah melakukan tindak pidana, harus dilakukan bilamana ada unsur kesalahan pada diri orang tersebut.
+Asas teritorial, artinya ketentuan hukum pidana Indonesia berlaku atas semua peristiwa pidana yang terjadi di daerah yang menjadi wilayah teritorial Negara Kesatuan Republik Indonesia, termasuk pula kapal berbendera Indonesia, pesawat terbang Indonesia, dan gedung kedutaan dan konsul Indonesia di negara asing (pasal 2 KUHP).
+Asas nasionalitas aktif, artinya ketentuan hukum pidana Indonesia berlaku bagi semua WNI yang melakukan tindak pidana di mana pun ia berada (pasal 5 KUHP).
+Asas nasionalitas pasif, artinya ketentuan hukum pidana Indonesia berlaku bagi semua tindak pidana yang merugikan kepentingan negara (pasal 4 KUHP).
+
+
+=== Macam-Macam Pembagian Delik ===
+Dalam hukum pidana dikenal macam-macam pembagian delik ke dalam:
+
+Delik yang dilakukan dengan sengaja, misalnya, sengaja merampas jiwa orang lain (Pasal 338 KUHP) dan de

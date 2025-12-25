@@ -1,0 +1,35 @@
+Judul: Internet untuk Segala
+Sumber: Wikipedia Indonesia
+
+Internet untuk Segala(-nya) (bahasa Inggris: Internet of Things, atau dikenal juga dengan singkatan IoT) merupakan sebuah konsep yang bertujuan untuk memperluas manfaat dari konektivitas internet yang tersambung secara terus-menerus. Adapun kemampuan seperti berbagi data, remote control, dan sebagainya, termasuk juga pada benda di dunia nyata. Contohnya bahan pangan, elektronik, koleksi, peralatan apa saja, termasuk benda hidup yang semuanya tersambung ke jaringan lokal dan global melalui sensor yang tertanam dan selalu aktif. Internet of Things berkaitan erat dengan Machine-to-Machine (M2M) atau lebih dikenal dengan perangkat cerdas.
+Pada dasarnya, Internet of Things mengacu pada benda yang dapat diidentifikasikan secara unik sebagai representasi virtual dalam struktur berbasis Internet. Istilah Internet of Things awalnya disarankan oleh Kevin Ashton pada tahun 1999 dan mulai terkenal melalui Auto-ID Center di MIT.
+
+
+== Definisi Orisinal ==
+Pada bulan Juni 2009 Ashton berkomentar."Hari ini komputer dan manusia, hampir sepenuhnya tergantung pada Internet untuk segala informasi yang semua terdiri dari sekitar 50 petabyte (satu petabyte adalah 1.024 terabyte) data yang tersedia pada Internet dan pertama kali digagaskan dan diciptakan oleh manusia. Dari mulai mengetik, menekan tombol rekam, mengambil gambar digital atau memindai kode bar.
+Diagram konvensional dari Internet meninggalkan router menjadi bagian terpenting dari semuanya. Masalahanya adalah orang memiliki waktu, perhatian dan akurasi terbatas. Mereka semua berarti tidak sangat baik dalam menangkap berbagai data tentang hal di dunia nyata. Dan itu adalah masalah besar.
+Dari segi fisik dan begitu juga lingkungan kita. Gagasan dan informasi begitu penting, tetapi banyak lagi hal yang penting. Namun teknologi informasi saat ini sangat tergantung pada data yang berasal dari orang-orang sehingga komputer kita tahu lebih banyak tentang semua ide dari hal-hal tersebut.
+Jika kita memiliki komputer yang begitu banyak tahu tentang semua hal itu. Menggunakan data yang berkumpul tanpa perlu bantuan dari kita. Kita dapat melacak dan menghitung segala sesuatu dan sangat mengurangi pemborosan, kerugian, dan biaya. Kita akan mengetahui kapan hal itu diperlukan untuk mengganti, memperbaiki atau mengingat, dan apakah mereka menjadi terbarui atau melewati yang terbaik di sini sertan ya!.
+Internet of Things memiliki potensi untuk mengubah dunia seperti pernah dilakukan oleh Internet, bahkan mungkin lebih baik. (Ashton,2009)
+
+Penelitian pada Internet of Things masih dalam tahap perkembangan. Oleh karena itu, tidak ada definisi standar dari Internet of Things. Terdapat juga berbagai definisi yang dirumuskan oleh peneliti yang berbeda serta tercantum dalam survei."
+
+
+== Definisi Alternatif ==
+Casagras (Coordination and support action for global RFID-related activities and standardisation)
+Mendefinisakan Internet of Things, sebagai sebuah infrastruktur jaringan global, yang menghubungkan benda-benda fisik dan virtual melalui eksploitasi data capture dan kemampuan komunikasi. Infrastruktur terdiri dari jaringan yang telah ada dan internet berikut pengembangan jaringannya. Semua ini akan menawarkan identifikasi objek, sensor dan kemampuan koneksi sebagai dasar untuk pengembangan layanan dan aplikasi ko-operatif yang independen. Ia juga ditandai dengan tingkat otonom data capture yang tinggi, event transfer, konektivitas jaringan dan interoperabilitas.
+
+SAP (Systeme, Anwendungen und Produkte)
+Mendefinisikannya bahwa Dunia di mana benda-benda fisik diintegrasikan ke dalam jaringan informasi secara berkesinambungan, dan di mana benda-benda fisik tersebut berperan aktif dalam proses bisnis. Layanan yang tersedia berinteraksi dengan ‘objek pintar’ melalui Internet, mencari dan mengubah status mereka sesuai dengan setiap informasi yang dikaitkan, disamping memperhatikan masalah privasi dan keamanan.
+
+CORDIS
+Rencana aksi untuk Uni Eropa untuk memperkenalkan pemerintahan berdasarkan Internet of Things.
+
+ETP EPOSS
+Jaringan yang dibentuk oleh hal-hal atau benda yang memiliki identitas, pada dunia maya yang beroperasi di ruang itu dengan menggunakan kecerdasan antarmuka untuk terhubung dan berkomunikasi dengan pengguna, konteks sosial dan lingkungan.
+
+
+== Keunikan Pengalamatan Suatu Benda ==
+Ide Sebenarnya dari Auto–ID Center berbasis pada Radio Frequency Identification(RFID) dan identifikasi yang unik melalui Electronic Product code namun hal ini telah berkembang menjadi objek yang memiliki alamat Intenet protocol(IP) atau Uniform Resource Identifier(URI).
+Pandangan alternatif, dari dunia Semantic Web, berfokus pada pembuatan segala sesuatu yang berhubungan dengan RFID dan dihubungkan oleh masing-masing protokol, seperti URI . Objek itu sendiri terhubung dengan objek lainnya secara otomatis seperti halnya suatu server terpusat yang terhubung langsung dengan kliennya dan dikendalikan oleh manusia.
+Generasi berikutnya dari aplikasi Internet menggunakan Internet Protocol Version 6 (IPv6) 

@@ -1,0 +1,53 @@
+Judul: Pangkalan data
+Sumber: Wikipedia Indonesia
+
+Pangkalan data atau basis data (bahasa Inggris: database) adalah kumpulan data yang terorganisasi, yang umumnya disimpan dan diakses secara elektronik dari suatu sistem komputer. Pada saat pangkalan data menjadi semakin kompleks, maka pangkalan data dikembangkan menggunakan teknik perancangan dan pemodelan secara formal.
+Perangkat lunak yang digunakan untuk mengelola dan memanggil kueri (query) suatu pangkalan data disebut sistem kelola pangkalan data (database management system, DBMS). Sistem pangkalan data dipelajari dalam ilmu informasi.
+Istilah "pangkalan data" berawal dari ilmu komputer. Meskipun kemudian artinya semakin luas, memasukkan hal-hal di luar bidang elektronika, artikel ini mengenai pangkalan data komputer. Catatan yang mirip dengan pangkalan data sebenarnya sudah ada sebelum revolusi industri yaitu dalam bentuk buku besar, kuitansi dan kumpulan data yang berhubungan dengan bisnis.
+Konsep dasar dari pangkalan data adalah kumpulan dari catatan-catatan, atau potongan dari pengetahuan. Sebuah pangkalan data memiliki penjelasan terstruktur dari jenis fakta yang tersimpan di dalamnya: penjelasan ini disebut skema. Skema menggambarkan objek yang diwakili suatu pangkalan data, dan hubungan di antara objek tersebut. Ada banyak cara untuk mengorganisasi skema, atau memodelkan struktur pangkalan data: ini dikenal sebagai model pangkalan data atau model data. Model yang umum digunakan sekarang adalah model relasional, yang menurut istilah layman mewakili semua informasi dalam bentuk tabel-tabel yang saling berhubungan di mana setiap tabel terdiri dari baris dan kolom (definisi yang sebenarnya menggunakan terminologi matematika). Dalam model ini, hubungan antartabel diwakili dengan menggunakan nilai yang sama antartabel. Model yang lain seperti model hierarkis dan model jejaring menggunakan cara yang lebih eksplisit untuk mewakili hubungan antartabel.
+
+
+== Lingkungan pangkalan data ==
+Lingkungan pangkalan data adalah sebuah habitat di mana terdapat pangkalan data untuk bisnis. Dalam lingkungan pangkalan data, pengguna memiliki alat untuk mengakses data. Pengguna melakukan semua tipe pekerjaan dan keperluan mereka bervariasi seperti menggali data (data mining), memodifikasi data, atau berusaha membuat data baru. Masih dalam lingkungan pangkalan data, pengguna tertentu tidak diperbolehkan mengakses data, baik secara fisik maupun logis. (Koh, 2005, dalam Janner Simarmata & Imam Paryudi 2006: 33).
+
+
+== Tahapan perancangan pangkalan data ==
+Perancangan pangkalan data merupakan upaya untuk membangun sebuah pangkalan data dalam suatu lingkungan bisnis. Untuk membangun sebuah pangkalan data terdapat tahapan-tahapan yang perlu kita lalui yaitu:
+
+Perencanaan pangkalan data
+Mendefinisikan sistem
+Analisis dan mengumpulkan kebutuhan
+Perancangan pangkalan data
+Perancangan aplikasi
+Membuat prototipe
+Implementasi
+Konversi data
+Pengujian
+Pemeliharaan operasional
+
+
+== Bahasa pada pangkalan data ==
+Terdapat tiga jenis bahasa komputer yang digunakan saat kita ingin membangun dan memanipulasi sebuah pangkalan data, yaitu:
+
+Data Definition Language (DDL)
+Data Manipulation Language (DML)
+Data Control Language (DCL)
+
+
+== Perangkat lunak pangkalan data ==
+Perangkat lunak pangkalan data yang banyak digunakan dalam pemrograman dan merupakan perangkat pangkalan data aras tinggi:
+
+Selain perangkat lunak di atas, terdapat juga perangkat lunak pemrograman pangkalan data aras rendah, di antaranya:
+
+Btrieve
+Tsunami Record Manager
+
+
+== Penyimpanan ==
+
+Penyimpanan pangkalan data adalah wadah materialisasi fisik dari suatu pangkalan data. Penyimpanan terdiri dari penyimpanan tingkat internal (fisik)  dalam arsitektur pangkalan data. Penyimpanan ini juga berisikan semua informasi yang diperlukan (misalnya, metadata, "data tentang data", dan struktur data internal) untuk membangun tingkat konseptual dan tingkat eksternal dari tingkat internal pada saat dibutuhkan. Menempatkan data ke sistem penyimpanan permanen umumnya menjadi tugas mesin pangkalan data (disebut juga sebagai "mesin penyimpan data"). Meskipun pada umumnya penyimpanan pangkalan data diakses oleh DBMS (Database Manajemen Sistem) melalui sistem operasi yang mendasarinya (atau juga menggunakan sistem berkas dari sistem operasi perantara sebagai tata letak penyimpanan), properti dan pengaturan konfigurasi penyimpanan sangat penting dalam melakukan operasi DBMS yang efisien, sehingga perlu  dijaga ketat oleh administrator pangkalan data. Saat bekerja, DBMS selalu memiliki pangkalan datanya dalam beberapa jenis penyimpanan (misal pada memori dan penyimpanan eksternal), selain itu terdapat empat jenis DBMS yaitu:
+1.Relational DBMS.
+2.Hierarchical DBMS.
+3.Network DBMS.
+4.NoSQL.
+Data dalam pangkalan data beserta informasi tambahan yang dibutuhkan, yang dapat saja dalam ukuran yang sangat besar, dituliskan dalam kode menjadi bit. Data biasanya disimpan dalam struktur yang terlihat sangat berbeda dibandingkan dengan cara yang terlihat pada level konseptual dan eksternal, tetapi dalam up

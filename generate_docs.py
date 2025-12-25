@@ -1,54 +1,90 @@
 import os
+import wikipedia # type: ignore
 import random
+import time
 
-os.makedirs("documents/sample", exist_ok=True)
+# Konfigurasi Folder
+output_dir = "documents/sample"
+os.makedirs(output_dir, exist_ok=True)
 
-topics = {
-    "plagiarisme": [
-        "Plagiarisme akademik merupakan pelanggaran etika yang serius dalam dunia pendidikan tinggi.",
-        "Tindakan plagiarisme dapat merugikan penulis asli serta menurunkan kualitas akademik.",
-        "Perguruan tinggi menerapkan berbagai kebijakan untuk mencegah dan menindak plagiarisme.",
-        "Deteksi plagiarisme penting untuk menjaga integritas dan orisinalitas karya ilmiah."
-    ],
-    "tfidf": [
-        "TF-IDF merupakan metode pembobotan kata yang banyak digunakan dalam text mining.",
-        "Metode ini menghitung frekuensi kemunculan kata dalam dokumen dan koleksi dokumen.",
-        "TF-IDF membantu menentukan kata yang paling representatif dalam suatu dokumen.",
-        "Dalam penelitian ini, TF-IDF digunakan untuk representasi fitur teks."
-    ],
-    "machine_learning": [
-        "Machine learning adalah cabang kecerdasan buatan yang memungkinkan sistem belajar dari data.",
-        "Algoritma machine learning banyak digunakan dalam klasifikasi dan prediksi data.",
-        "Model machine learning memerlukan data latih yang cukup untuk menghasilkan performa optimal.",
-        "Penerapan machine learning telah digunakan di berbagai bidang penelitian."
-    ],
-    "analisis_data": [
-        "Analisis data bertujuan untuk menemukan pola dan informasi yang berguna.",
-        "Proses analisis data melibatkan pengumpulan, pembersihan, dan pemodelan data.",
-        "Hasil analisis data dapat digunakan sebagai dasar pengambilan keputusan.",
-        "Analisis data banyak diterapkan dalam penelitian ilmiah dan industri."
-    ],
-    "sistem_informasi": [
-        "Sistem informasi digunakan untuk mengelola data dan informasi dalam suatu organisasi.",
-        "Pengembangan sistem informasi harus memperhatikan kebutuhan pengguna.",
-        "Sistem informasi yang baik dapat meningkatkan efisiensi dan efektivitas kerja.",
-        "Dalam penelitian ini dibahas perancangan sistem informasi berbasis komputer."
-    ]
-}
+# Konfigurasi Wikipedia ke Bahasa Indonesia
+wikipedia.set_lang("id")
 
-def generate_document(topic_sentences, doc_id):
-    paragraphs = []
-    for _ in range(4):
-        paragraph = " ".join(random.sample(topic_sentences, k=3))
-        paragraphs.append(paragraph)
-    return "\n\n".join(paragraphs) + f"\n\nDokumen akademik ke-{doc_id}."
+# Daftar Topik Akademik Nyata untuk Pencarian
+# Kita siapkan lebih dari 50 topik untuk cadangan jika ada yang gagal diload
+academic_keywords = [
+    # Ilmu Komputer & Teknologi
+    "Kecerdasan buatan", "Pembelajaran mesin", "Pengolahan bahasa alami", "Visi komputer", 
+    "Sistem pakar", "Komputasi awan", "Internet of Things", "Keamanan jaringan", 
+    "Blockchain", "Big data", "Sistem informasi", "Basis data", "Algoritma genetika",
+    
+    # Ekonomi & Bisnis
+    "Makroekonomi", "Mikroekonomi", "Manajemen pemasaran", "Akuntansi keuangan", 
+    "Perdagangan internasional", "Saham", "Investasi", "Kewirausahaan", "Manajemen risiko",
+    
+    # Kesehatan & Kedokteran
+    "Epidemiologi", "Imunologi", "Farmakologi", "Genetika", "Kanker", "Diabetes melitus", 
+    "Kesehatan masyarakat", "Gizi", "Psikologi klinis", "Neurobiologi",
+    
+    # Teknik
+    "Teknik sipil", "Teknik elektro", "Energi terbarukan", "Robotika", "Termodinamika", 
+    "Mekanika fluida", "Teknik industri", "Material komposit",
+    
+    # Hukum & Sosial
+    "Hukum pidana", "Hukum perdata", "Sosiologi", "Antropologi", "Hubungan internasional", 
+    "Politik", "Komunikasi massa", "Jurnalistik", "Hak asasi manusia"
+]
 
-doc_id = 1
-for topic, sentences in topics.items():
-    for _ in range(10):  # 5 topik × 10 = 50 dokumen
-        content = generate_document(sentences, doc_id)
-        with open(f"documents/sample/doc{doc_id}.txt", "w", encoding="utf-8") as f:
-            f.write(content)
-        doc_id += 1
+def fetch_and_save_real_data(keywords, limit=50):
+    count = 0
+    used_keywords = []
+    
+    print(f"🔄 Memulai proses pengunduhan {limit} dokumen referensi dari Wikipedia...")
+    
+    # Acak urutan keyword agar variatif setiap kali dijalankan
+    random.shuffle(keywords)
 
-print("✅ 50 dokumen akademik realistis berhasil dibuat.")
+    for keyword in keywords:
+        if count >= limit:
+            break
+            
+        try:
+            # Mengambil halaman wikipedia
+            # auto_suggest=False agar tidak mengambil halaman yang salah
+            page = wikipedia.page(keyword, auto_suggest=False)
+            
+            # Mengambil konten (Ringkasan + Isi)
+            # Kita batasi karakternya agar tidak terlalu panjang (misal 3000-5000 karakter)
+            content = page.content[:5000] 
+            
+            # Membersihkan sedikit format jika ada header yang tertinggal
+            clean_content = f"Judul: {page.title}\nSumber: Wikipedia Indonesia\n\n{content}"
+            
+            # Simpan ke file
+            filename = f"doc{count+1}_{keyword.replace(' ', '_')}.txt"
+            filepath = os.path.join(output_dir, filename)
+            
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write(clean_content)
+            
+            print(f"✅ [{count+1}/{limit}] Berhasil mengunduh: {page.title}")
+            count += 1
+            used_keywords.append(keyword)
+            
+        except wikipedia.exceptions.DisambiguationError as e:
+            # Jika kata kunci ambigu, lewati
+            print(f"⚠️ Ambigu: {keyword} (Dilewati)")
+            continue
+        except wikipedia.exceptions.PageError:
+            # Jika halaman tidak ditemukan
+            print(f"❌ Tidak ditemukan: {keyword}")
+            continue
+        except Exception as e:
+            print(f"❌ Error pada {keyword}: {e}")
+            continue
+
+    print(f"\n🎉 Selesai! {count} dokumen berhasil disimpan di folder '{output_dir}'.")
+
+# Jalankan Fungsi
+if __name__ == "__main__":
+    fetch_and_save_real_data(academic_keywords, limit=50)

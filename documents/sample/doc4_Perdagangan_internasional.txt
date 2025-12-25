@@ -1,0 +1,27 @@
+Judul: Perdagangan internasional
+Sumber: Wikipedia Indonesia
+
+Perdagangan internasional adalah proses tukar menukar barang antar dua negara atau lebih untuk mendapatkan laba. Penduduk yang dimaksud dapat berupa antarperorangan (individu dengan individu), antara individu dengan pemerintah suatu negara, atau pemerintah suatu negara dengan pemerintah negara lain. Di banyak negara, perdagangan internasional menjadi salah satu faktor utama untuk meningkatkan GDP. Meskipun perdagangan internasional telah terjadi selama ribuan tahun (lihat Jalur Sutra, Amber Road), dampaknya terhadap kepentingan ekonomi, sosial, dan politik baru dirasakan beberapa abad belakangan. Contoh perdagangan internasional adalah pelaksanaan Perjanjian Asosiasi Uni Eropa–Mercosur. Perdagangan internasional pun turut mendorong Industrialisasi, kemajuan transportasi, globalisasi, dan kehadiran perusahaan multinasional.
+
+
+== Teori perdagangan internasional ==
+Menurut Amir M.S, bila dibandingkan dengan pelaksanaan perdagangan di dalam negeri, perdagangan internasional sangatlah rumit dan kompleks. Kerumitan tersebut antara lain disebabkan karena adanya batas-batas politik dan kenegaraan yang dapat menghambat perdagangan, misalnya dengan adanya bea, tarif, atau quota barang impor. Selain itu, kesulitan lainnya timbul karena adanya perbedaan budaya, bahasa, mata uang, taksiran dan timbangan, dan hukum dalam perdagangan.
+
+
+=== Model Adam Smith ===
+Model Adam Smith ini memfokuskan pada keuntungan mutlak yang menyatakan bahwa seluruh negara akan memperoleh keuntungan mutlak apabila semuanya memberlakukan perdagangan bebas dan berfokus pada produk atau keahlian mereka, karena impor suatu negara adalah ekspor untuk negara lain. Menurutnya, apabila suatu negara mampu memproduksi barang dengan biaya yang lebih rendah dibandingkan negara lain, hal ini merupakan keuntungan mutlak negara tersebut. Menurut teori ini jika harga barang dengan jenis sama tidak memiliki perbedaan di berbagai negara maka tidak ada alasan untuk melakukan perdagangan internasional.
+
+
+=== Model Ricardian ===
+David Ricardo menjelaskan mengapa negara yang bahkan mampu memproduksi seluruh produk dengan efisien tetap harus terlibat dalam perdagangan internasional. Dalam modelnya, ia menjelaskan bahwa ketika terdapat beberapa negara mampu memproduksi beberapa komoditas yang sama terlibat dalam perdagangan bebas, mereka akan meningkatkan konsumsinya dengan mengekspor apa yang secara komparatif lebih menguntungkan dan mengimpor sesuatu yang lebih murah dari biaya produksi di negeri sendiri. Hal ini dianggap lebih menguntungkan dibandingkan keputusan suatu negara untuk memproduksi sendiri barang dan mengisolasi negaranya. Apabila terdapat dua negara yang memproduksi satu komoditas yang sama, negara yang mampu mengekspor dengan harga lebih murah akan memiliki keuntungan relatif dibandingkan negara lainnya.
+Model Ricardian selanjutnya dimodelkan secara matematis oleh William Whewell pada tahun 1833. Dalam penelitiannya, ia meragukan teori distribusi Ricardo mampu didukung oleh bukti empiris. Model Ricardian dan Model Smith selanjutnya banyak dibandingkan dalam pembelajaran ekonomi untuk memahami perdagangan internasional.
+
+
+=== Model Heckscher-Ohlin ===
+Model Heckscgher-Ohlin menggunakan model Ricardian untuk membuat suatu model komparatif. Model ini dibuat untuk menjelaskan bagaimana suatu negara melakukan menerapkan perdagangan internasional. Dalam model ini, Hecksgner-Ohlin menyatakan bahwa negara harus mengekspor produk yang melimpah dan diproduksi massal dan mengimpor produk yang langka. Model ini cukup berani dalam menjelaskan fungsi perdagangan internasiona dilihat dari sisi produksi. Blaug (1992) menyatakan bahwa model ini gagal diterapkan apabila negara yang bersangkutan bergantung pada produksi massal tersebut. Masalah empiris dengan model HO, yang ditunjukkan oleh Wassily Leontiefmenunjukkan bahwa terdapat negara yang tidak dapat dimodelkan dengan teori ini, seperti Amerika Serikat lebih cenderung untuk mengekspor barang padat karya dibanding barang padat modal. Hal ini disebut sebagai Paradoks Leotief.
+
+
+=== Faktor spesifik ===
+
+Faktor spesifik merupakan model yang dibuat oleh Jacob Viner dan merupakan sebuah variasi dari model Ricardian. Rumus matematisnya disusun oleh Ronald Jones(1971) dan Michael Mussa (1974). Model ini menggunakan satu faktor yang diasumsikan spesifik, dalam hal ini faktor yang diasumsikan tidak dapat berpindah antara industri satu dan yang lain untuk merespons perubahan pasar.
+Pada model ini diasumsikan bahwa dalam suatu sistem perekonomian terdapat dua faktor produksi, yakni faktor spesifik dan fakor berpindah. Faktor spesifik dapat berupa tanah dan kapital, sementara faktor berpindah dapat berupa tenaga kerja. Model ini dipakai untuk mendemonstrasikan efek yang ditunjukkan oleh perdagangan apabila terdapat satu faktor spesifik. Teori mensugestikan jika ada peningkatan ekspor sebuah barang, pemilik dari faktor produksi spesifik ke barang tersebut akan diuntungkan dengan diterapkannya perdagangan bebas. Sebagai tambah

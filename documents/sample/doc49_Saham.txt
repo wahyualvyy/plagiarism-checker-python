@@ -1,0 +1,58 @@
+Judul: Saham
+Sumber: Wikipedia Indonesia
+
+Saham adalah sebuah bukti kepemilikan nilai sebuah perusahaan. Kata saham sendiri diambil dari bahasa Arab. Dalam literatur fikih, saham diambil dari istilah musahamah yang berasal dari kata sahm (bahasa Arab: سهم) bentuk jamaknya ashum atau suhmah yang artinya bagian, bagian kepemilikan. Artinya pemilik saham adalah pemilik perusahaan. Semakin besar saham yang dimiliki, maka semakin besar kekuasaannya di perusahaan tersebut. Dengan menerbitkan saham, memungkinkan perusahaan-perusahaan yang membutuhkan pendanaan jangka panjang untuk 'menjual' kepentingan dalam bisnis - saham (efek ekuitas) - dengan imbalan uang tunai. Ini adalah metode utama untuk meningkatkan modal bisnis selain menerbitkan obligasi. Saham dijual melalui pasar primer atau pasar sekunder. Saham merupakan salah satu instrumen pasar keuangan yang paling popular. Menerbitkan saham merupakan salah satu pilihan perusahaan ketika memutuskan untuk pendanaan perusahaan. Pada sisi lain, saham merupakan instrumen investasi yang banyak dipilih oleh para investor karena saham mampu memberikan tingkat keuntungan yang menarik.
+Saham dapat didefinisikan sebagai tanda penyertaan modal seseorang atau pihak (badan usaha) dalam suatu perusahaan atau perseroan terbatas. Dengan menyertakan modal tersebut, maka pihak tersebut memiliki klaim atas pendapatan perusahaan, klaim atas aset perusahaan, dan berhak hadir dalam Rapat Umum Pemegang Saham (RUPS).
+Sebuah saham hanya bisa naik secara wajar jika perusahaan yang bersangkutan menunjukkan kinerja yang positif, seperti labar bersih yang besar dan bertumbuh.
+
+
+== Etimologi ==
+Saham memiliki banyak makna secara etimologi. Asal kata saham berasal dari bahasa Arab yaitu sahm yang berarti anak panah. Kata sahm juga dapat berarti bagian atau bejana yang digunakan untuk pengundian dan perjudian.
+
+
+== Riwayat saham ==
+
+
+=== Jenis ===
+Ada beberapa tipe saham, yaitu saham biasa dan saham preferen. Saham preferen biasanya disebut sebagai saham campuran karena memiliki ciri-ciri hampir sama dengan saham biasa. Pada umumnya, saham biasa hanya memiliki satu jenis, tetapi dalam beberapa kasus terdapat lebih dari satu, tergantung dari kebutuhan perusahaan. Saham biasa memiliki beberapa jenis, seperti kelas A, kelas B, kelas C, dan lainnya. Masing-masing kelas dengan keuntungan dan kerugiannya masing-masing dan simbol huruf tidak memiliki arti apa-apa.
+
+
+=== Ciri-ciri ===
+
+
+==== 1. Saham preferen ====
+Saham preferen memiliki ciri-ciri sebagai berikut:
+
+Memiliki berbagai tingkat, dapat diterbitkan dengan ciri-ciri yang berbeda
+Tagihan terhadap aktiva dan pendapatan, memiliki prioritas lebih tinggi dari saham biasa dalam hal pembagian dividen
+Dividen kumulatif, bila belum dibayarkan dari periode sebelumnya maka dapat dibayarkan pada periode berjalan dan lebih dahulu dari saham biasa
+Konvertibilitas, dapat ditukar menjadi saham biasa, bila kesepakatan antara pemegang saham dan organisasi penerbit terbentuk
+Pemegang saham preferen mempunyai hak sebagai berikut ini:
+
+Didahulukan dalam hal pembayaran dividen dibandingkan dengan pembayaran dividen saham biasa.
+Biasanya mempunyai hak dividen kumulatif yaitu jika dividen belum dibayarkan (disebut dengan dividend in arrear) pada suatu periode akan dibayarkan kumulatif dengan dividen periode selanjutnya.
+Dalam hal likuidasi, investor saham preferen dibayar setelah pembayaran kepada investor obligasi, tetapi sebelum pembayaran kepada investor saham biasa.
+
+
+==== 2. Saham biasa ====
+Memiliki ciri-ciri sebagai berikut:
+
+Hak suara pemegang saham, dapat memillih dewan komisaris
+Hak didahulukan, bila organisasi penerbit menerbitkan saham baru
+Tanggung jawab terbatas, pada jumlah yang diberikan saja
+
+
+== Kategori ==
+Bila ditinjau dari kinerja perdagangan, saham dapat dikelompokkan menjadi:
+
+Blue chip stocks, saham biasa yang memiliki reputasi tinggi, sebagai pemimpin dalam industrinya, memiliki pendapatan yang stabil dan konsisten dalam membayar dividen. Biasanya masuk dalam indeks saham LQ45 dan IDX30.
+Income stocks, saham suatu emiten dengan kemampuan membayarkan dividen lebih tinggi dari rata-rata dividen yang dibayarkan pada tahun sebelumnya
+Growth stocks, terdiri dari well-known dan lesser-known
+Speculative stocks, saham secara konsisten memperoleh penghasilan dari tahun ke tahun, mempunyai kemungkinan penghasilan yang tinggi pada masa mendatang, namun belum pasti
+Cyclical stocks, saham yang tidak terpengaruh oleh kondisi ekonomi makro maupun situasi bisnis secara umum
+Emerging Growth Stocks, saham yang dikeluarkan oleh emiten yang relatif kecil dan stabil meskipun dalam kondisi ekonomi yang kurang mendukung
+Defensive Stocks, saham yang tetap stabil dari suatu periode atau kondisi yang tidak menentu dan resesi.
+
+
+== Saham Repo ==
+Saham Repo adalah saham yang dijadikan jaminan pihak pemilik saham kepada pihak pemberi pinjaman untuk mendapatkan dana pinjaman dengan perjanjian akan melakukan pembelian kembali saham pada harga dan waktu yang telah disepakati. Dana yang didapatkan oleh pihak pemili

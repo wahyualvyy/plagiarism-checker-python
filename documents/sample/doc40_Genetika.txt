@@ -1,0 +1,25 @@
+Judul: Genetika
+Sumber: Wikipedia Indonesia
+
+Genetika (serapan dari bahasa Belanda: genetica) adalah cabang biologi yang mempelajari pewarisan sifat gen pada organisme maupun suborganisme. Secara singkat dapat juga dikatakan bahwa genetika adalah ilmu tentang gen dan segala aspeknya. Istilah "genetika" diperkenalkan oleh William Bateson pada suatu surat pribadi kepada Adam Chadwick dan ia menggunakannya pada Konferensi Internasional tentang Genetika ke-3 pada 1906.
+Dalam kaitannya dengan genetika, DNA memiliki peran yang amat penting. DNA adalah bahan genetik mendasar yang mengontrol sifat-sifat makhluk hidup, tereskpresikan dalam bentuk polipeptida, meskipun tidak seluruhnya adalah protein (dapat diekspresikan sebagai RNA yang memiliki reaksi katalitik, seperti SNRPs).
+Francis Crick menjelaskan aliran informasi yang dibawa oleh DNA dalam rangkaian The Central Dogma, yang berbunyi Aliran informasi DNA dapat diterukan ke sel-sel maupun individu lainnya dengan replikasi, dapat diekspresikan menjadi suatu sinyal perantara dalam bentuk RNA, yang kemudian dapat ditranslasikan menjadi polipeptida, unit pembangun suatu fenotipe dari organisme yang ada.
+Bidang kajian genetika dimulai dari wilayah subselular (molekuler) hingga populasi. Secara lebih rinci, genetika berusaha menjelaskan:
+
+material pembawa informasi untuk diwariskan (bahan genetik),
+bagaimana informasi itu diekspresikan (ekspresi genetik), dan
+bagaimana informasi itu dipindahkan dari satu individu ke individu yang lain (pewarisan genetik).
+
+
+== Awal mula dan konsep dasar ==
+
+
+=== Periode pra-Mendel ===
+Meskipun orang biasanya menetapkan genetika dimulai dengan ditemukannya kembali naskah artikel yang ditulis Gregor Mendel pada tahun 1900, sebenarnya genetika sebagai "ilmu pewarisan" atau hereditas sudah dikenal sejak masa prasejarah, seperti domestikasi dan pengembangan berbagai ras ternak dan kultivar tanaman. Orang juga sudah mengenal efek persilangan dan perkawinan sekerabat serta membuat sejumlah prosedur dan peraturan mengenai hal tersebut sejak sebelum genetika berdiri sebagai ilmu yang mandiri. Silsilah tentang penyakit pada keluarga, misalnya, sudah dikaji orang sebelum itu. Namun, pengetahuan praktis ini tidak memberikan penjelasan penyebab dari gejala-gejala itu.
+Teori populer mengenai pewarisan yang dianut pada masa itu adalah teori pewarisan campur: seseorang mewariskan campuran rata dari sifat-sifat yang dibawa tetuanya, terutama dari pejantan karena membawa sperma. Hasil penelitian Mendel menunjukkan bahwa teori ini tidak berlaku karena sifat-sifat dibawa dalam kombinasi yang dibawa alel-alel khas, bukannya campuran rata. Pendapat terkait lainnya adalah teori Lamarck: sifat yang diperoleh tetua dalam hidupnya diwariskan kepada anaknya. Teori ini juga patah dengan penjelasan Mendel bahwa sifat yang dibawa oleh gen tidak dipengaruhi pengalaman individu yang mewariskan sifat itu. Charles Darwin juga memberikan penjelasan dengan hipotesis pangenesis dan kemudian dimodifikasi oleh Francis Galton. Dalam pendapat ini, sel-sel tubuh menghasilkan partikel-partikel yang disebut gemmula yang akan dikumpulkan di organ reproduksi sebelum pembuahan terjadi. Jadi, setiap sel dalam tubuh memiliki sumbangan bagi sifat-sifat yang akan dibawa zuriat (keturunan).
+Pada masa pra-Mendel, orang belum mengenal gen dan kromosom (meskipun DNA sudah diekstraksi namun pada abad ke-19 belum diketahui fungsinya). Saat itu orang masih beranggapan bahwa sifat diwariskan lewat sperma (tetua betina tidak menyumbang apa pun terhadap sifat anaknya).
+
+
+=== Konsep dasar ===
+Peletakan dasar ilmiah melalui percobaan sistematik baru dilakukan pada paruh akhir abad ke-19 oleh Gregor Johann Mendel. Ia adalah seorang biarawan dari Brno (Brünn dalam bahasa Jerman), Kekaisaran Austro-Hungaria (sekarang bagian dari Republik Ceko). Mendel disepakati umum sebagai 'pendiri genetika' setelah karyanya "Versuche über Pflanzenhybriden" atau Percobaan mengenai Persilangan Tanaman (dipublikasi cetak pada tahun 1866) ditemukan kembali secara terpisah oleh Hugo de Vries, Carl Correns, dan Erich von Tschermak pada tahun 1900. Dalam karyanya itu, Mendel pertama kali menemukan bahwa pewarisan sifat pada tanaman (ia menggunakan tujuh sifat pada tanaman kapri, Pisum sativum) mengikuti sejumlah nisbah matematika yang sederhana. Yang lebih penting, ia dapat menjelaskan bagaimana nisbah-nisbah ini terjadi, melalui apa yang dikenal sebagai 'Hukum Pewarisan Mendel'.
+Dari karya ini, orang mulai mengenal konsep gen (Mendel menyebutnya 'faktor'). Gen adalah pembawa sifat. Alel adalah ekspresi alternatif dari gen dalam kaitan dengan suatu sifat. Setiap individu disomik selalu memiliki sepasang alel, yang berkaitan dengan suatu sifat yang khas, masing-masing berasal dari tetuanya. Status dari pasangan alel ini dinamakan genotipe. Apabila suatu individu memiliki pasangan alel sama, genotipe individu itu bergenotipe homozigot, apabila pasangannya berbeda, genotipe individu yang bersangkutan dalam keadaan heterozigot. Genotipe terkait dengan sifat yang tera

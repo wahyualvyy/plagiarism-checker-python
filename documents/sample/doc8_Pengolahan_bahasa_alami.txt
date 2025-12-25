@@ -1,0 +1,25 @@
+Judul: Pengolahan bahasa alami
+Sumber: Wikipedia Indonesia
+
+Pengolahan bahasa alami (disingkat PBA; bahasa Inggris: natural language processing, disingkat NLP) adalah cabang ilmu komputer, linguistik, dan kecerdasan buatan yang mengkaji interaksi antara komputer dan bahasa (alami) manusia, khususnya cara memprogram komputer untuk mengolah data bahasa alami dalam jumlah besar. Hasilnya adalah komputer mampu "memahami" isi dokumen, termasuk nuansa bahasa di dalamnya. Dengan ini, komputer dapat dengan akurat mengambil informasi dan wawasan dari dokumen sekaligus mengelompokkan dan menata dokumen-dokumen itu sendiri.
+Kajian NLP antara lain mencakup segmentasi wicara, segmentasi teks, penandaan kelas kata, dan pengawataksaan makna. Meski kajiannya dapat mencakup teks dan wicara, pengolahan wicara telah berkembang menjadi suatu bidang kajian terpisah.
+
+
+== Sejarah ==
+
+Pengolahan bahasa alami berawal pada tahun 1950-an. Pada 1950, Alan Turing memublikasikan artikel yang berjudul "Computing Machinery and Intelligence" yang mengusulkan ujian yang sekarang dikenal sebagai uji Turing menjadi salah satu syarat kecerdasan.
+
+
+== Metode ==
+
+Pada awal perkembangannya, banyak sistem pengolah bahasa didesain dengan metode simbolik, yaitu penyusunan aturan secara manual dengan kamus, misal penyusunan tata bahasa atau aturan heuristik untuk pemotongan kata.
+Sejak "revolusi statistik" pada akhir 1980-an dan pertengahan 1990-an, banyak penelitian pengolahan bahasa alami bergantung pada pemelajaran mesin. Paradigma pemelajaran mesin ini memakai statistika inferensi untuk mempelajari tata bahasa secara otomatis dari sebuah korpus.
+
+
+== Lihat pula ==
+
+
+== Referensi ==
+
+
+== Bacaan lebih lanjut ==

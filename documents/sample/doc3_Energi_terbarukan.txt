@@ -1,0 +1,31 @@
+Judul: Energi terbarukan
+Sumber: Wikipedia Indonesia
+
+Energi terbarukan adalah jenis energi yang berasal dari sumber daya alam yang dapat diperbarui atau dipulihkan secara alami dalam waktu yang singkat. Sumber energi ini dianggap lebih ramah lingkungan dibandingkan dengan energi fosil, karena menghasilkan gas rumah kaca. Contoh energi terbarukan seperti tenaga surya, tenaga angin, arus air, proses biologi, dan panas bumi. Energi ini lebih ramah lingkungan karena sedikit menghasilkan emisi karbon dibanding dengan energi berbahan bakar fosil.
+
+Untuk mengetahui lebih lanjut tentang penggunaan energi terbarukan di masyarakat modern, lihat pengembangan energi terbarukan. Untuk diskusi umum, lihat pengembangan energi masa depan.
+
+
+== Definisi "terbarukan" ==
+Konsep energi terbarukan mulai dikenal pada tahun 1970-an, sebagai upaya untuk mengimbangi pengembangan energi berbahan bakar nuklir dan fosil. Definisi paling umum adalah sumber energi yang dapat dengan cepat dipulihkan kembali secara alami, dan prosesnya berkelanjutan. Dengan definisi ini, maka bahan bakar nuklir dan fosil tidak termasuk di dalamnya.
+
+
+=== Energi berkelanjutan ===
+Dari definisinya, semua energi terbarukan sudah pasti juga merupakan energi berkelanjutan, karena senantiasa tersedia di alam dalam waktu yang relatif sangat panjang sehingga tidak perlu khawatir atau antisipasi akan kehabisan sumbernya. Para pengusung energi non-nuklir tidak memasukkan tenaga nuklir sebagai bagian energi berkelanjutan karena persediaan uranium-235 di alam ada batasnya, katakanlah ratusan tahun. Tetapi, para penggiat nuklir berargumentasi bahwa nuklir termasuk energi berkelanjutan jika digunakan sebagai bahan bakar di reaktor pembiak cepat (FBR: Fast Breeder Reactor) karena cadangan bahan bakar nuklir bisa "beranak" ratusan hingga ribuan kali lipat.
+Alasannya begini, cadangan nuklir yang dibicarakan para pakar energi dalam ordo puluhan atau ratusan tahun itu secara implisit dihitung dengan asumsi reaktor yang digunakan adalah reaktor biasa (umumnya tipe BWR atau PWR), yang notabene hanya bisa membakar U-235. Di satu sisi kandungan U-235 di alam tak lebih dari 0,72% saja, sisanya kurang lebih 99,28% merupakan U-238. Uranium jenis U-238 ini dalam kondisi pembakaran "biasa" (digunakan sebagai bahan bakar di reaktor biasa) tidak dapat menghasilkan energi nuklir, tetapi jika dicampur dengan U-235 dan dimasukan bersama-sama ke dalam reaktor pembiak, bersamaan dengan konsumsi/pembakaran U-235, U-238 mengalami reaksi penangkapan 1 neutron dan berubah wujud menjadi U-239. Dalam hitungan menit U-239 meluruh sambil mengeluarkan partikel beta dan kembali berubah wujud menjadi Np-239. Np-239 juga kembali meluruh sambil memancarkan partikel beta menjadi Pu-239. Pu-239 inilah, yang meski tidak tersedia di alam tetapi terbentuk sebagai hasil sampingan pembakaran U-235, memiliki kemampuan membelah diri dan menghasilkan energi sebagaimana U-235. Bisa dibayangkan jika semua U-238 yang jumlahnya ribuan kali lebih banyak daripada U-235, berhasil diubah menjadi Pu-239, berapa peningkatan terjadi jumlah bahan bakar nuklir. Hal yang serupa juga terjadi untuk atom [thorium-233] yang dengan reaksi penangkapan 1 neutron berubah wujud menjadi U-233 yang memiliki kemampuan reaksi berantai (reaksi nuklir).
+Itulah sebabnya mengapa negara-negara maju tertentu enggan meninggalkan nuklir meski risiko radioaktif yang diterimanya tidak ringan. Reaktor pembiak cepat seperti yang dimiliki oleh Korea Utara mendapat pengawasan ketat dari IAEA karena mampu memproduksi bahan bakar baru Pu-239 yang rentan disalahgunakan untuk senjata pemusnah massal.
+Di sisi lain para penentang nuklir cenderung menggunakan istilah "energi berkelanjutan" sebagai sinonim dari "energi terbarukan" untuk mengeluarkan energi nuklir dari pembahasan kelompok energi tersebut.
+
+
+== Sumber utama energi terbarukan ==
+
+
+=== Energi panas bumi ===
+
+Energi panas bumi berasal dari peluruhan radioaktif di pusat Bumi, yang membuat Bumi panas dari dalam, serta dari panas matahari yang membuat panas permukaan bumi. Ada tiga cara pemanfaatan panas bumi:
+
+Sebagai tenaga pembangkit listrik dan digunakan dalam bentuk listrik
+Sebagai sumber panas yang dimanfaatkan secara langsung menggunakan pipa ke perut bumi
+Sebagai pompa panas yang dipompa langsung dari perut bumi
+Panas bumi adalah suatu bentuk energi panas atau energi termal yang dihasilkan dan disimpan di dalam bumi. Energi panas adalah energi yang menentukan temperatur suatu benda. Energi panas bumi berasal dari energi hasil pembentukan planet (20%) dan peluruhan radioaktif dari mineral (80%). Gradien panas bumi, yang didefinisikan dengan perbedaan temperatur antara inti bumi dan permukaannya, mengendalikan konduksi yang terus menerus terjadi dalam bentuk energi panas dari inti ke permukaan bumi.
+Temperatur inti bumi mencapai lebih dari 5000oC. Panas mengalir secara konduksi menuju bebatuan sekitar inti bumi. Panas ini menyebabkan bebatuan tersebut meleleh, membentuk magma. Magma mengalirkan panas secara konveksi dan bergerak naik karena magma 

@@ -1,0 +1,34 @@
+Judul: Mekanika fluida
+Sumber: Wikipedia Indonesia
+
+Mekanika fluida adalah cabang mekanika yang mempelajari mengenai pergerakan dari fluida. Pergerakan ini diamati dalam bentuk cairan maupun gas. Dalam mekanika fluida juga dipelajari fluida yang tidak dalam keadaan bergerak atau diam. Sebagian besar bahasan dalam mekanika fluida berkaitan dengan mekanika kontinum. Secara garis besar, mekanika fluida terbagi menjadi statika fluida yang mempelajari fluida dalam keadaan diam, dan dinamika fluida yang mempelajari fluida dalam keadaan bergerak. Khusus pada dinamika fluida digunakan pendekatan matematika dan bukti empiris guna penyelesaian masalah. Contoh aplikasi dari mekanika fluida yaitu: 1) artesis yang merupakan mata air yang keluar sendiri tanpa perlu dipompa; 2) pantulan pasca-gletser yang merupakan kenaikan permukaan Bumi akibat hilangnya permukaan salju yang menutupinya, biasanya terjadi di daerah Skandinavia.
+
+
+== Sejarah ==
+Manusia telah memanfaatkan konsep-konsep dasar mekanika fluida sejak zaman prasejarah. Konsep-konsep ini mulai digunakan ketika manusia mulai mengadakan perburuan. Alat-alat berburu yang memanfaatkan konsep aliran fluida antara lain pelontar batu, lembing, dan panah. Pada beberapa kebudayaan prasejarah seperti di Mesir dan Mesopotamia, mekanika fluida digunakan untuk irigasi pertanian serta penggunaan dayung untuk pelayaran perahu. Ukuran dan bentuk dari benda yang dimanfaatkan untuk keperluan manusia pada masa ini berkaitan dengan mekanika fluida. Ilmu mekanika fluida mulai dikonsepkan secara ilmiah beberapa abad sebelum masehi. Cendekiawan yang merintis konsep mekanika fluida ialah Aristoteles.
+
+
+== Kajian utama ==
+Mekanika fluida hampir seluruhnya mengkaji hukum fisika dan mekanika. Kekhususannya adalah pada objek yang dikaji yaitu fluida. Mekanika fluida membahas tentang penerapan hukum gerak Newton, hukum kekekalan massa, hukum pertama termodinamika dan hukum kedua termodinamika. Pembahasan dalam mekanika fluida kemudian dikelompokkan menjadi dua, yaitu statika fluida dan dinamika fluida. Pada statika fluida, mekanika fluida membahas fluida yang dalam keadaan diam atau tidak bergerak. Sementara itu, dinamika fluida membahas tentang fluida dalam keadaan bergerak.
+
+
+=== Statika fluida ===
+Statika fluida membahas mengenai fluida yang diam dan dalam keadaan setimbang. Perumusan pada statika fluida menggunakan hukum gerak Newton yang pertama dan yang ketiga. Kajian di dalam statika fluida meliputi massa jenis, tekanan, daya apung, dan tegangan permukaan.
+
+
+=== Dinamika fluida ===
+Dinamika fluida merupakan cabang keilmuan mekanika fluida yang paling rumit. Dalam dinamika fluida, perhitungan dan perumusan nilai fluida dilakukan dalam keadaan bergerak. Analisis dalam dinamika fluida memanfaatkan model-model ideal yang sederhana, tetapi didukung oleh hukum gerak Newton dan hukum kekekalan energi.
+Dinamika fluida adalah bidang penelitian utama dengan banyak hal yang belum terselesaikan atau hanya sebagian yang terselesaikan. Mekanika fluida dapat menjadi sangat rumit secara matematika, dan sangat tepat untuk diselesaikan dengan metode numerik, biasanya dengan menggunakan perhitungan komputer. Dinamika fluida komputasi, adalah salah satu disiplin yang dikhususkan untuk penyelesaian masalah mekanika fluida dengan pendekatan numerik.
+
+
+== Konsep ==
+
+
+=== Kekentalan ===
+Kekentalan merupakan salah satu sifat cairan yang bergerak atau mengalir dengan melawan tegangan geser. Adanya kohesi antarpartikel cairan menjadi penyebab timbulnya kekentalan. Kekentalan menyebabkan molekul-molekul cairan memiliki tegangan geser. Pada zat cair yang ideal, kekentalan tidak ada sama sekali. Kekentalan terbagi menjadi dua jenis yaitu kekentalan kinematis dan kekentalan dinamik.
+
+
+=== Tekanan ===
+Dalam perhitungan fluida, nilai tekanan lebih diutamakan untuk diketahui dibandingkan dengan gaya. Hal ini dilandasi oleh fenomena fluida yang memberikan tekanan sebagai hasil gaya yang terjadi padanya. Tekanan diartikan sebagai besarnya gaya serenjang yang diberikan terhadap suatu permukaan tiap satuan luas. Gaya serenjang dihasilkan ke seluruh permukaan benda yang bersentuhan dengan fluida pada kondisi fluida yang tenang. Dalam kondisi ini, molekul-molekul  di dalam fluida tetap bergerak, sehingga gaya yang timbul merupakan akibat dari tumbukan molekul-molekul. Satuan tekanan yang umum digunakan dalam fluida adalah Pascal yang setara dengan nilai 1 Newton per meter persegi.
+Besarnya tekanan yang diterima dari fluida menuju ke suatu bidang tertentu adalah sama dari arah manapun. Konsep ini berlaku baik bagi fluida diam maupun fluida yang bergerak. Tekanan yang dialami oleh fluida pada ruang terbuka berasal dari tekanan atmosfer. Pada tekanan atmosfer, fluida seakan-akan tidak menerima gaya apapun tetapi sebenarnya menerima tekanan atmosfer. Gaya tidak terukur karena permukaan bidang atmosfer sangat luas yaitu udara. Pada ketinggian tempat yang berbeda-beda, nilai tekanan atmosfer juga berbeda-beda.
+Sementara itu, nilai tekanan yang dialami oleh benda di dalam cairan at

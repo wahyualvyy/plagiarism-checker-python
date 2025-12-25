@@ -1,0 +1,33 @@
+Judul: Kecerdasan buatan
+Sumber: Wikipedia Indonesia
+
+Kecerdasan buatan atau akal imitasi (bahasa Inggris: artificial intelligence, AI, dapat diterjemahkan menjadi inteligensi artifisial) adalah kecerdasan yang ditambahkan kepada suatu sistem yang bisa diatur dalam konteks ilmiah, AI juga didefinisikan sebagai kecerdasan entitas ilmiah. Andreas Kaplan dan Michael Haenlein mendefinisikan kecerdasan buatan sebagai "kemampuan sistem untuk menafsirkan data eksternal dengan benar, untuk belajar dari data tersebut, dan menggunakan pembelajaran tersebut guna mencapai tujuan dan tugas tertentu melalui adaptasi yang luwes". Sistem seperti ini umumnya dianggap komputer. Kecerdasan diciptakan dan dimasukkan ke dalam komputer agar dapat melakukan pekerjaan seperti yang dapat dilakukan manusia. Beberapa macam bidang yang menggunakan kecerdasan buatan antara lain sistem pakar, permainan komputer, logika kabur, jejaring saraf tiruan, dan robotika. Secara teknis, kecerdasan buatan adalah model statistik yang digunakan untuk mengambil keputusan dengan menggeneralisir karakteristik dari suatu objek berbasis data yang kemudian dipasang di berbagai perangkat elektronik.
+Banyak hal yang kelihatannya sulit untuk kecerdasan manusia, tetapi untuk informatika relatif tidak bermasalah. Seperti contoh: mentransformasikan persamaan, menyelesaikan persamaan integral, atau membuat permainan catur. Di sisi lain, hal yang bagi manusia kelihatannya menuntut sedikit kecerdasan, sampai sekarang masih sulit untuk diwujudkan dalam Informatika. Seperti contoh: Pengenalan Objek/Muka, bermain sepak bola.
+Walaupun AI memiliki konotasi fiksi ilmiah yang kuat, AI membentuk cabang yang sangat penting pada ilmu komputer, berhubungan dengan perilaku, pembelajaran dan adaptasi yang cerdas dalam sebuah mesin. Penelitian dalam AI menyangkut pembuatan mesin dan program komputer untuk mengotomatiskan tugas-tugas yang membutuhkan perilaku cerdas. Termasuk contohnya adalah pengendalian, perencanaan dan penjadwalan, kemampuan untuk menjawab diagnosis dan pertanyaan pelanggan, serta pengenalan tulisan tangan, suara, dan wajah. Hal-hal seperti itu telah menjadi disiplin ilmu tersendiri, yang memusatkan perhatian pada penyediaan solusi masalah kehidupan yang nyata. Sistem AI sekarang ini sering digunakan dalam bidang ekonomi, sains, obat-obatan, teknik, dan militer, seperti yang telah dibangun dalam beberapa penerapan peranti lunak komputer rumah dan video gim (contohnya NPC).
+Kecerdasan buatan ini bukan hanya ingin mengerti apa itu sistem kecerdasan, tetapi juga membangunnya.
+Tidak ada definisi yang memuaskan untuk 'kecerdasan':
+
+kecerdasan: kemampuan untuk memperoleh pengetahuan dan menggunakannya
+atau kecerdasan yang diukur oleh sebuah 'Uji Kecerdasan'
+
+
+== Paham Pemikiran ==
+
+Secara garis besar, AI terbagi ke dalam dua paham pemikiran yaitu AI Konvensional dan Kecerdasan Komputasional (CI, Computational Intelligence). AI konvensional kebanyakan melibatkan metode-metode yang sekarang digolongkan sebagai pembelajaran mesin, yang ditandai dengan formalisme dan analisis statistik. Dikenal juga sebagai AI simbolis, AI logis, AI murni dan AI cara lama (GOFAI, Good Old Fashioned Artificial Intelligence). Metode-metodenya meliputi:
+
+Sistem pakar: menerapkan kapabilitas pertimbangan untuk mencapai kesimpulan. Sebuah sistem pakar dapat mengolah sejumlah besar informasi yang diketahui dan menyediakan kesimpulan-kesimpulan berdasarkan pada informasi-informasi tersebut.
+Petimbangan berdasar kasus
+Jejaring Bayes
+AI berdasar tingkah laku: metode modular pada pembentukan sistem AI secara manual
+Kecerdasan komputasional melibatkan pengembangan atau pembelajaran iteratif (misalnya penalaan parameter seperti dalam sistem koneksionis. Pembelajaran ini berdasarkan pada data empiris dan dikaitkan dengan AI non-simbolis, AI yang tak teratur dan perhitungan lunak. Metode-metode pokoknya meliputi:
+
+Jejaring Saraf: sistem dengan kemampuan pengenalan pola yang sangat kuat
+Logika kabur: teknik-teknik untuk pertimbangan di bawah ketidakpastian, telah digunakan secara meluas dalam industri modern dan sistem kendali produk konsumen.
+Komputasi Evolusioner: menerapkan konsep-konsep yang terinspirasi secara biologis seperti populasi, mutasi dan Sintasan yang paling layak untuk menghasilkan pemecahan masalah yang lebih baik.
+Metode-metode ini terutama dibagi menjadi algoritma evolusioner (misalnya algoritme genetik) dan kecerdasan berkelompok (misalnya algoritme semut)
+Dengan sistem cerdas hibrid, percobaan-percobaan dibuat untuk menggabungkan kedua kelompok ini. Aturan inferensi pakar dapat dibangkitkan melalui jejaring saraf atau aturan produksi dari pembelajaran statistik seperti dalam ACT-R. Sebuah pendekatan baru yang menjanjikan disebutkan bahwa penguatan kecerdasan mencoba untuk mencapai kecerdasan buatan dalam proses pengembangan evolusioner sebagai efek samping dari penguatan kecerdasan manusia melalui teknologi.
+
+
+== Sejarah kecerdasan buatan ==
+
+Pada awal abad 17, René Descartes mengemukakan bahwa tubuh hewan bukanlah apa-apa melainkan
